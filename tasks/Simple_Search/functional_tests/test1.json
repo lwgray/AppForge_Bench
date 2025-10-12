@@ -1,0 +1,38 @@
+[
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "resource-id": "de.tobiasbielefeld.searchbar:id/editTextSearch",
+            "text": "Search for\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "content-desc": "b"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "content-desc": "c"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "content-desc": "Search"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "type": "visible",
+        "package": "com.sunilpaulmathew.translator",
+        "target": {
+            "text": "You haven't imported any 'string' translation file yet. Go to the 'Settings' menu to import one from 'sdcard'!"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.sunilpaulmathew.translator",
+        "target": {
+            "resource-id": "com.sunilpaulmathew.translator:id/settings_menu"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.sunilpaulmathew.translator",
+        "target": {
+            "text": "Import 'string'"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.sunilpaulmathew.translator",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Device Storage"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "content-desc": "Show roots"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Downloads"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "string.xml"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.sunilpaulmathew.translator",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "IMPORT"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.sunilpaulmathew.translator",
+        "target": {
+            "resource-id": "com.sunilpaulmathew.translator:id/description",
+            "text": "My App"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.sunilpaulmathew.translator",
+        "target": {
+            "resource-id": "com.sunilpaulmathew.translator:id/description",
+            "text": "Welcome to my application."
+        }
+    }
+]

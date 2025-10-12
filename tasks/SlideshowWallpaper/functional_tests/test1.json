@@ -1,0 +1,76 @@
+[
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Images"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "io.github.doubi88.slideshowwallpaper:id/add_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "class": "android.widget.LinearLayout"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "com.google.android.documentsui:id/icon_mime_lg"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Preview"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.wallpaper.livepicker",
+        "target": {
+            "resource-id": "com.android.wallpaper.livepicker:id/preview_attribution_pane_set_wallpaper_button",
+            "text": "Set wallpaper"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.wallpaper.livepicker",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Home screen"
+        }
+    }
+]

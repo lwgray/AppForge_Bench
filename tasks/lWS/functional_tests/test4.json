@@ -1,0 +1,93 @@
+[
+    {
+        "type": "adb_command",
+        "package": "net.basov.lws.fdroid",
+        "cmdline": "adb shell input touchscreen swipe 400 24 400 800 800"
+    },
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "com.android.systemui:id/tile_label",
+            "text": "Internet"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "See all"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.settings:id/done",
+            "text": "Done"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonStartStop",
+            "text": "START"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonSendURL",
+            "text": "SEND"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonSendURL",
+            "text": "SEND"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonQRCodeURL",
+            "text": "QR CODE"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonQRCodeURL",
+            "text": "QR CODE"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/address",
+            "text": "127.0.0.1"
+        }
+    }
+]

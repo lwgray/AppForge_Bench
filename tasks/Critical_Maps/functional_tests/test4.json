@@ -1,0 +1,41 @@
+[
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/understand_button",
+            "text": "ACCEPT"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "content-desc": "Open drawer"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/design_menu_item_text",
+            "text": "Observer mode"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/design_menu_item_text",
+            "text": "Observer mode"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/navigation_observer_mode_text",
+            "text": "Enable this if you don't take part yourself, but still want to follow the mass."
+        }
+    }
+]

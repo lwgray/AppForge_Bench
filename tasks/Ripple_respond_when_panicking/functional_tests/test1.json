@@ -1,0 +1,36 @@
+[
+    {
+        "type": "click",
+        "package": "info.guardianproject.ripple",
+        "target": {
+            "resource-id": "info.guardianproject.ripple:id/panic_button"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "info.guardianproject.ripple",
+        "target": {
+            "resource-id": "info.guardianproject.ripple:id/textHint",
+            "text": "Swipe down to trigger"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "info.guardianproject.ripple",
+        "cmdline": "adb shell input touchscreen swipe 380 230 380 1100 800"
+    },
+    {
+        "type": "invisible",
+        "package": "info.guardianproject.ripple",
+        "target": {
+            "resource-id": "info.guardianproject.ripple:id/panic_swipe_button"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "content-desc": "Chrome"
+        }
+    }
+]

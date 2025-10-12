@@ -1,0 +1,25 @@
+[
+    {
+        "type": "click",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "org.woheller69.eggtimer:id/spinnerConsistency"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "72\u00b0C medium"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "org.woheller69.eggtimer:id/controllerButton",
+            "text": "Start"
+        }
+    }
+]

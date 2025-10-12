@@ -1,0 +1,62 @@
+[
+    {
+        "type": "adb_command",
+        "package": "de.j4velin.wifiAutoOff",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 150 800"
+    },
+    {
+        "type": "visible",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Turn WiFi off when\u2026"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "screen is off"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "screen is off"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "screen is off"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "text": "11"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "for at least 11 min"
+        }
+    }
+]

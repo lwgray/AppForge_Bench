@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "text": "Schedule"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Autostart"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "org.ostrya.presencepublisher:id/switchWidget"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Should this app start on boot?"
+        }
+    }
+]

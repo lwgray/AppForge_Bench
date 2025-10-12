@@ -1,0 +1,59 @@
+[
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "resource-id": "om.sstvencoder:id/action_pick_picture"
+        }
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "resource-id": "om.sstvencoder:id/action_take_picture"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.camera2",
+        "target": {
+            "resource-id": "com.android.camera2:id/bottom_bar"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.camera2",
+        "target": {
+            "resource-id": "com.android.camera2:id/done_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "resource-id": "android:id/content"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Text"
+        }
+    },
+    {
+        "type": "input",
+        "package": "om.sstvencoder",
+        "target": {
+            "resource-id": "om.sstvencoder:id/edit_text"
+        },
+        "message": "kkk"
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "resource-id": "om.sstvencoder:id/action_done"
+        }
+    }
+]

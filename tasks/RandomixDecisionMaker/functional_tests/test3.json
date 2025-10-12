@@ -1,0 +1,24 @@
+[
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/done"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/navigation_bar_item_small_label_view",
+            "text": "Coin"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/coinButtonAnimation"
+        }
+    }
+]

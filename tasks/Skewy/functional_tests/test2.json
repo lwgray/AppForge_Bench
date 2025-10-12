@@ -1,0 +1,44 @@
+[
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "text": "ALARMS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/image_view_view_graph"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/image_view_delete"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "text": "FREQUENCY"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/radio_button_sensitivity_high"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/seekbar_threshold_attenuator"
+        }
+    }
+]

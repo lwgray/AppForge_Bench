@@ -1,0 +1,13 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.martinmimigames.tinymusicplayer",
+    "permissions": [
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 6
+}

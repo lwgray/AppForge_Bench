@@ -1,0 +1,38 @@
+[
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/ac_add"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "New To-Do list"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/et_todo_list_name"
+        },
+        "message": "Buy vegetables tomorrow"
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "OKAY"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "Buy vegetables tomorrow"
+        }
+    }
+]

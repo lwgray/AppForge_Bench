@@ -1,0 +1,26 @@
+[
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Load Model"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Samples"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "ToyPlane.obj"
+        }
+    }
+]

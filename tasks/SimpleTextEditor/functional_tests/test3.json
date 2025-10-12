@@ -1,0 +1,44 @@
+[
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "content-desc": "b"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "content-desc": "c"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "resource-id": "com.maxistar.textpad:id/menu_document_search"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "resource-id": "android:id/search_src_text"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "content-desc": "b"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "resource-id": "de.tobiasbielefeld.searchbar:id/editTextSearch",
+            "text": "Search for\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "content-desc": "k"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "content-desc": "Search"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.systemui:id/white_cutout"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 150 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Simple Search"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "text": "k"
+        }
+    }
+]

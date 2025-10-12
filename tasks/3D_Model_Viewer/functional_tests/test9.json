@@ -1,0 +1,58 @@
+[
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Help"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Demos"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Demos"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/alertTitle",
+            "text": "Demos List"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Simple Objects"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "GUI"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Geometry"
+        }
+    }
+]

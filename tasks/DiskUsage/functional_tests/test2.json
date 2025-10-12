@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.diskusage",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Storage card"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.diskusage",
+        "target": {
+            "resource-id": "android:id/search_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.diskusage",
+        "target": {
+            "resource-id": "android:id/search_src_text"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.google.android.diskusage",
+        "target": {
+            "resource-id": "android:id/search_src_text"
+        },
+        "message": "Apps"
+    }
+]

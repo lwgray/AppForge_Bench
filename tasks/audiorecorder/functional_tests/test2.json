@@ -1,0 +1,59 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageView"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.RelativeLayout"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageView"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.FrameLayout"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Audio Format"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/text1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Sample Rate"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "22 kHz"
+        }
+    }
+]

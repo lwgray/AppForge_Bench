@@ -1,0 +1,87 @@
+[
+    {
+        "type": "adb_command",
+        "cmdline": "rm -r /storage/emulated/0/aaa"
+    },
+    {
+        "type": "adb_command",
+        "cmdline": "mkdir /storage/emulated/0/aaa"
+    },
+    {
+        "type": "adb_command",
+        "cmdline": "touch /storage/emulated/0/aaa/test1.txt"
+    },
+    {
+        "type": "adb_command",
+        "cmdline": "touch /storage/emulated/0/aaa/.test2.txt"
+    },
+    {
+        "type": "restart"
+    },
+    {
+        "type": "click",
+        "target": {
+            "text": "aaa"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "test1.txt"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": ".test2.txt"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_button"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_toggle_hidden"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "test1.txt"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": ".test2.txt"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_button"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_toggle_hidden"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "test1.txt"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": ".test2.txt"
+        }
+    }
+]

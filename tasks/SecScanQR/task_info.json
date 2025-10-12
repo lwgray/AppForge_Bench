@@ -1,0 +1,14 @@
+{
+    "template": "empty_activity",
+    "package_name": "de.t_dankworth.secscanqr",
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.CAMERA",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_MEDIA_LOCATION"
+    ],
+    "high-description": "SecScanQR - Secure QR code scanner",
+    "low-description": "QR code scanner app with security features for safe code scanning",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

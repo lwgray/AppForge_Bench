@@ -1,0 +1,54 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "org.billthefarmer.notes:id/newNote"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "org.billthefarmer.notes:id/openNote"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "android:id/button2",
+            "text": "CANCEL"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "text": "Save as\u2026"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "org.billthefarmer.notes:id/pathText"
+        },
+        "message": "test.md"
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "SAVE"
+        }
+    }
+]

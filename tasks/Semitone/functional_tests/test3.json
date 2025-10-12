@@ -1,0 +1,17 @@
+[
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "PIANO"
+        }
+    },
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "mn.tck.semitone:id/piano"
+        }
+    }
+]

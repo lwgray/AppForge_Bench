@@ -1,0 +1,29 @@
+[
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/BHint",
+            "text": "ALRIGHT"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/BChooseProcess",
+            "text": "Choose other process(es)"
+        }
+    },
+    {
+        "type": "back",
+        "package": "org.anothermonitor"
+    },
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/LCPUAM"
+        }
+    }
+]

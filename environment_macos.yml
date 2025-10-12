@@ -1,0 +1,46 @@
+name: appdev
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - adbutils==2.9.3
+      - anyio==4.9.0
+      - certifi==2025.7.9
+      - charset-normalizer==3.4.2
+      - construct==2.10.70
+      - deprecated==1.2.18
+      - deprecation==2.1.0
+      - distro==1.9.0
+      - et-xmlfile==2.0.0
+      - fastapi==0.115.12
+      - jiter==0.10.0
+      - lxml==6.0.0
+      - markdown-it-py==3.0.0
+      - mdurl==0.1.2
+      - numpy==2.2.6
+      - openai==1.93.0
+      - opencv-python==4.11.0.86
+      - openpyxl==3.1.5
+      - packaging==25.0
+      - pandas==2.3.1
+      - pillow==11.2.1
+      - py==1.11.0
+      - python-dateutil==2.9.0.post0
+      - python-multipart==0.0.20
+      - pytz==2025.2
+      - requests==2.32.4
+      - retry==0.9.2
+      - retry2==0.9.5
+      - rich==14.0.0
+      - six==1.17.0
+      - tqdm==4.67.1
+      - tzdata==2025.2
+      - uiautodev==0.9.0
+      - uiautomator2==3.3.3
+      - urllib3==2.5.0
+      - wdapy==0.2.4
+      - websockets==15.0.1
+      - wrapt==1.17.2 

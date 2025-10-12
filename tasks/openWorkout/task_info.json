@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.health.openworkout",
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "high-description": "openWorkout - Simple workout trainer that puts your privacy first",
+    "low-description": "A privacy-focused workout training application with exercise routines and progress tracking",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

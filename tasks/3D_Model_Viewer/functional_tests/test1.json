@@ -1,0 +1,18 @@
+[
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Load Model"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Android Explorer"
+        }
+    }
+]

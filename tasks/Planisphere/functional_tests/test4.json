@@ -1,0 +1,47 @@
+[
+    {
+        "type": "click",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "org.tengel.planisphere:id/menu_item_location_source"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "GPS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "org.tengel.planisphere:id/locationSource"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "fixed location"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

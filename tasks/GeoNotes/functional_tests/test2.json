@@ -1,0 +1,31 @@
+[
+    {
+        "type": "click",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "resource-id": "de.hauke_stieler.geonotes:id/toolbar_btn_export"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "text": "GeoJson"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "text": "GeoJson"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/chooser_nearby_button",
+            "text": "Nearby"
+        }
+    }
+]

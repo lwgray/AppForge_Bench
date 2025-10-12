@@ -1,0 +1,47 @@
+[
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "content-desc": "Open navigation drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/design_menu_item_text",
+            "text": "Test"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/autoCompleteTextView_test_url"
+        },
+        "message": "google.com"
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/button_start_test"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/button_start_test",
+            "text": "START TEST"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/textView_test_info"
+        }
+    }
+]

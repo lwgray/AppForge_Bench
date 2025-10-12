@@ -1,0 +1,79 @@
+[
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/design_menu_item_text",
+            "text": "Fuel Consumption"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_from",
+            "text": "From"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "text": "Litres/100km"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_unit_from",
+            "text": "Litres/100km"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_value_from",
+            "text": "1.0"
+        }
+    },
+        {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_to",
+            "text": "To"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "text": "Miles/gallon (US)"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_unit_to",
+            "text": "Miles/gallon (US)"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_value_to",
+            "text": "235.2146"
+        }
+    }
+]

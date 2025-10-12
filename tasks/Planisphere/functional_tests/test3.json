@@ -1,0 +1,56 @@
+[
+    {
+        "type": "click",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "org.tengel.planisphere:id/menu_item_theme"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "android:id/alertTitle",
+            "text": "Theme"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Light"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Dark"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Night"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.tengel.planisphere",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Dark"
+        }
+    }
+]

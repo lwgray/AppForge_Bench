@@ -1,0 +1,42 @@
+[
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonStartStop",
+            "text": "START"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonSendURL",
+            "text": "SEND"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Share"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Bluetooth"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Gmail"
+        }
+    }
+]

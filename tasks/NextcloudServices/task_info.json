@@ -1,0 +1,17 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.polar.nextcloudservices",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "high-description": "Nextcloud Services - Cloud services integration",
+    "low-description": "Services and integration for Nextcloud cloud storage platform",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

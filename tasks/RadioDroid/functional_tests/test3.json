@@ -1,0 +1,52 @@
+[
+    {
+        "type": "click",
+        "package": "net.programmierecke.radiodroid2",
+        "target": {
+            "resource-id": "net.programmierecke.radiodroid2:id/action_search"
+        }
+    },
+    {
+        "type": "input",
+        "package": "net.programmierecke.radiodroid2",
+        "target": {
+            "resource-id": "net.programmierecke.radiodroid2:id/search_src_text"
+        },
+        "message": "aaa"
+    },
+    {
+        "type": "click",
+        "package": "net.programmierecke.radiodroid2",
+        "target": {
+            "resource-id": "net.programmierecke.radiodroid2:id/buttonMore"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.programmierecke.radiodroid2",
+        "target": {
+            "resource-id": "net.programmierecke.radiodroid2:id/buttonPlayInRadioDroid"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "net.programmierecke.radiodroid2",
+        "target": {
+            "resource-id": "net.programmierecke.radiodroid2:id/textViewStationName"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.programmierecke.radiodroid2",
+        "target": {
+            "resource-id": "net.programmierecke.radiodroid2:id/buttonPlay"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.programmierecke.radiodroid2",
+        "target": {
+            "resource-id": "net.programmierecke.radiodroid2:id/buttonPlay"
+        }
+    }
+]

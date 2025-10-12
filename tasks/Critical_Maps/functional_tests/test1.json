@@ -1,0 +1,31 @@
+[
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/understand_button",
+            "text": "ACCEPT"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "text": "Map"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/map_set_center_fab"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/map_set_north_fab"
+        }
+    }
+]

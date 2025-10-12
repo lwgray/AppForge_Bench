@@ -1,0 +1,41 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.currency",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.currency",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.currency",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Roaming"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.currency",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Fraction digits"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.currency",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Four fraction digits"
+        }
+    }
+]

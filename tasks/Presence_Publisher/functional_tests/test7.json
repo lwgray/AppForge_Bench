@@ -1,0 +1,38 @@
+[
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "text": "Conditions"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "org.ostrya.presencepublisher",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 150 800"
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Send absence message"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Send absence message"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Send message when none of the above conditions match"
+        }
+    }
+]

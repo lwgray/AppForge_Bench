@@ -1,0 +1,27 @@
+[
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/grouping"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/search"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.elsdoerfer.android.autostarts"
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "content-desc": "More options"
+        }
+    }
+]

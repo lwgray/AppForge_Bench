@@ -1,0 +1,104 @@
+[
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "com.jpwolfso.privdnsqt:id/check_on",
+            "text": "DNS On"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "com.jpwolfso.privdnsqt:id/button_ok",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 490 28 490 488 800"
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 469 454 469 990 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "android:id/edit"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 369 800 369 100 800"
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 369 800 369 100 800"
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 369 800 369 100 800"
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 203 1035 203 1035 2000;adb shell input touchscreen swipe 203 1035 203 248 4000"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 700 709 10 709 800"
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 700 709 10 709 800"
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.android.systemui:id/tile_label",
+            "text": "DNS Off"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.android.systemui:id/tile_label",
+            "text": "DNS Off"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.android.systemui:id/tile_label",
+            "text": "DNS Auto"
+        }
+    }
+]

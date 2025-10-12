@@ -1,0 +1,31 @@
+[
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/understand_button",
+            "text": "ACCEPT"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/take_picture"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.camera2",
+        "target": {
+            "resource-id": "com.android.camera2:id/bottom_bar"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.camera2",
+        "target": {
+            "resource-id": "com.android.camera2:id/done_button"
+        }
+    }
+]

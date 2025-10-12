@@ -1,0 +1,42 @@
+[
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "During Startup"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "Google"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Disable"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "Google"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Application Info"
+        }
+    }
+]

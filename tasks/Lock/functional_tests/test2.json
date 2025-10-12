@@ -1,0 +1,136 @@
+[
+    {
+        "type": "click",
+        "package": "name.seguri.android.lock",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.settings:id/app_permission_item"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.settings:id/permission_enable_allow_button",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.systemui:id/white_cutout"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 369 800 369 100 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "text": "Search settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.settings.intelligence",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.settings.intelligence",
+        "target": {
+            "content-desc": "s"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.settings.intelligence",
+        "target": {
+            "content-desc": "s"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.settings.intelligence",
+        "target": {
+            "text": "Digital assistant app"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "text": "Default digital assistant app"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "com.google.android.permissioncontroller:id/app_choice_item"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Lock"
+        }
+    },
+    {
+        "type": "longclick",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "com.android.systemui:id/white_cutout"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "name.seguri.android.lock",
+        "cmdline": "adb shell input tap 378 868"
+    },
+    {
+        "type": "invisible",
+        "package": "name.seguri.android.lock",
+        "target": {
+            "text": "Lock"
+        }
+    }
+]

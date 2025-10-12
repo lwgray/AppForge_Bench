@@ -1,0 +1,17 @@
+[
+    {
+        "type": "visible",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "org.woheller69.eggtimer:id/altitude"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "org.woheller69.eggtimer:id/controllerButton",
+            "text": "Start"
+        }
+    }
+]

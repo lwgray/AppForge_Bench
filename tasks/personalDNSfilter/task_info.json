@@ -1,0 +1,20 @@
+{
+    "template": "empty_activity",
+    "package_name": "dnsfilter.android",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 4
+}

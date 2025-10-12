@@ -1,0 +1,59 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "com.android.permissioncontroller:id/continue_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "makeinfo.com.getid:id/device_copy"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "makeinfo.com.getid:id/sim_copy"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "makeinfo.com.getid:id/imei_copy"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "makeinfo.com.getid:id/imsi_b"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "makeinfo.com.getid:id/gsf_b"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "makeinfo.com.getid:id/wifi_copy"
+        }
+    }
+]

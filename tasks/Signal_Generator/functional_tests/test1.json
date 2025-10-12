@@ -1,0 +1,45 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/custom",
+            "text": "50%"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/duty"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/fine"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/level"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/square"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/mute"
+        }
+    }
+]

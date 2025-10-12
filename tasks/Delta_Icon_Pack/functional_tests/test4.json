@@ -1,0 +1,84 @@
+[
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/md_buttonDefaultPositive",
+            "text": "CLOSE"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/toolbar_title",
+            "text": "Home"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/toolbar_navigation_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/toolbar_navigation_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/design_menu_item_text",
+            "text": "Icons"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/menu_search"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/name",
+            "text": "Alternate"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/bookmark_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/bookmark_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/md_buttonDefaultPositive",
+            "text": "CLOSE"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/bookmark_item_container"
+        }
+    }
+]

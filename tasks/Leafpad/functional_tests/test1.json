@@ -1,0 +1,16 @@
+[
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "resource-id": "com.git.amarradi.leafpad:id/item_toggle_layout"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "resource-id": "com.git.amarradi.leafpad:id/item_toggle_layout"
+        }
+    }
+]

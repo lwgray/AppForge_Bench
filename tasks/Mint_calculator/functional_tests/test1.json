@@ -1,0 +1,37 @@
+[
+    {
+        "type": "click",
+        "package": "bored.codebyk.mintcalc",
+        "target": {
+            "text": "5"
+        }
+    },
+    {
+        "type": "click",
+        "package": "bored.codebyk.mintcalc",
+        "target": {
+            "text": "*"
+        }
+    },
+    {
+        "type": "click",
+        "package": "bored.codebyk.mintcalc",
+        "target": {
+            "text": "5"
+        }
+    },
+    {
+        "type": "click",
+        "package": "bored.codebyk.mintcalc",
+        "target": {
+            "text": "="
+        }
+    },
+    {
+        "type": "visible",
+        "package": "bored.codebyk.mintcalc",
+        "target": {
+            "text": "25"
+        }
+    }
+]

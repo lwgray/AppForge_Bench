@@ -1,0 +1,9 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/sleep"
+        }
+    }
+]

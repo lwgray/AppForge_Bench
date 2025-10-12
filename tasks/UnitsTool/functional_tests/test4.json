@@ -1,0 +1,38 @@
+[
+    {
+        "type": "click",
+        "package": "com.unitstool",
+        "target": {
+            "text": "Liquid"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.unitstool",
+        "target": {
+            "resource-id": "RNE__Input__text-input"
+        },
+        "message": "1000"
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "l"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "1,000,000 ml"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "100,000 cl"
+        }
+    }
+]

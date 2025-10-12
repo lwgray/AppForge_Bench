@@ -1,0 +1,53 @@
+[
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/buttonNewTrack"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/newtrack_button_submit"
+        }
+    },
+    {
+        "type": "longclick",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/switchLogger"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/menu_export"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/title",
+            "text": "Clear track"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "template": "empty_activity",
+    "package_name": "mn.tck.semitone",
+    "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.VIBRATE"
+    ],
+    "high-description": "Semitone - Music and audio application",
+    "low-description": "A music application for audio processing and semitone manipulation",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

@@ -1,0 +1,78 @@
+[
+    {
+        "type": "click",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/btnAddIncome"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/etPrice"
+        },
+        "message": "123"
+    },
+    {
+        "type": "input",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/etCategory"
+        },
+        "message": "salary"
+    },
+    {
+        "type": "click",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/fabDone"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/tvTotal",
+            "text": "+ 123 NON"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/btnAddExpense"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/etPrice"
+        },
+        "message": "200"
+    },
+    {
+        "type": "input",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/etCategory"
+        },
+        "message": "food"
+    },
+    {
+        "type": "click",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/fabDone"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.blogspot.e_kanivets.moneytracker",
+        "target": {
+            "resource-id": "com.blogspot.e_kanivets.moneytracker:id/tvTotal",
+            "text": "- 77 NON"
+        }
+    }
+]

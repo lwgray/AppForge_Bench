@@ -1,0 +1,75 @@
+[
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/edit"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/vscroll"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/vscroll"
+        },
+        "message": "abc"
+    },
+    {
+        "type": "invisible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "abc"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/edit"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/view"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/vscroll"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/vscroll"
+        },
+        "message": "abc"
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "abc"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/count",
+            "text": "1\n3"
+        }
+    }
+]

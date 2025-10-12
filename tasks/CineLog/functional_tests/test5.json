@@ -1,0 +1,66 @@
+[
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "content-desc": "Open navigation drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "Tags"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/fab"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/tag_name"
+        },
+        "message": "like"
+    },
+    {
+        "type": "visible",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "Tag name"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "Enable for movies"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "Enable for series"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/fab"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "like"
+        }
+    }
+]

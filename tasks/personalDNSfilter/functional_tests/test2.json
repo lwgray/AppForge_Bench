@@ -1,0 +1,30 @@
+[
+    {
+        "type": "click",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "Advanced settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "Allow only local DNS proxy requests"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dnsfilter.android",
+        "target": {
+            "resource-id": "dnsfilter.android:id/proxyLocalOnlyCheck"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dnsfilter.android",
+        "target": {
+            "resource-id": "dnsfilter.android:id/proxyLocalOnlyCheck"
+        }
+    }
+]

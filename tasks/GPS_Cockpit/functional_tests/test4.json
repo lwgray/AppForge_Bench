@@ -1,0 +1,55 @@
+[
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/title",
+            "text": "Head-Up Display"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/title",
+            "text": "Lock GPS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/title",
+            "text": "Dark Theme"
+        }
+    }
+]

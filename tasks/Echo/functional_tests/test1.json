@@ -1,0 +1,50 @@
+[
+    {
+        "type": "click",
+        "package": "eu.mrogalski.saidit",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.android.settings"
+    },
+    {
+        "type": "click",
+        "package": "eu.mrogalski.saidit",
+        "target": {
+            "resource-id": "eu.mrogalski.saidit:id/record_last_minute"
+        }
+    },
+    {
+        "type": "input",
+        "package": "eu.mrogalski.saidit",
+        "target": {
+            "resource-id": "eu.mrogalski.saidit:id/recording_name"
+        },
+        "message": "kk"
+    },
+    {
+        "type": "click",
+        "package": "eu.mrogalski.saidit",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.mrogalski.saidit",
+        "target": {
+            "resource-id": "eu.mrogalski.saidit:id/recording_done_send",
+            "text": "SEND"
+        }
+    }
+]

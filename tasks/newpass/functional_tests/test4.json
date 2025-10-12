@@ -1,0 +1,48 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.gero.newpass:id/login_tw_password"
+        },
+        "message": "123qwe"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/register_or_unlock_textView",
+            "text": "[create password]"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/button_Settings"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/txtName",
+            "text": "Export Passwords"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "class": "android.widget.FrameLayout"
+        },
+        "message": "123qwe"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    }
+]

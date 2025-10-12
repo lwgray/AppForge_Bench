@@ -1,0 +1,38 @@
+[
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.systemui:id/screen_pinning_cancel_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.android.settings"
+    },
+    {
+        "type": "back",
+        "package": "com.android.settings"
+    },
+    {
+        "type": "click",
+        "package": "com.daemon.ssh",
+        "target": {
+            "resource-id": "com.daemon.ssh:id/key_based_authentication"
+        }
+    }
+]

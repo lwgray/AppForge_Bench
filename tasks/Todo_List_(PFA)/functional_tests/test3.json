@@ -1,0 +1,30 @@
+[
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "content-desc": "Open menu"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "Expand tasks that have subtasks"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "Expand tasks that have subtasks"
+        }
+    }
+]

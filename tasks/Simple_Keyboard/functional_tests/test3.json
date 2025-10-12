@@ -1,0 +1,41 @@
+[
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Appearance"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Theme"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Material Dark"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Material Dark"
+        }
+    }
+]

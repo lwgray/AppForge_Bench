@@ -1,0 +1,44 @@
+[
+    {
+        "type": "visible",
+        "target": {
+            "text": "Download"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "text": "Android"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "data"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": "Download"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/back_button"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "Download"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": "data"
+        }
+    }
+]

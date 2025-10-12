@@ -1,0 +1,15 @@
+{
+    "template": "empty_activity",
+    "package_name": "fr.s13d.photobackup",
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 5
+}

@@ -1,0 +1,41 @@
+[
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Configure a server"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "fr.s13d.photobackup:id/servername",
+            "text": "PhotoBackup"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "text": "PhotoBackup server settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Address"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Password"
+        }
+    }
+]

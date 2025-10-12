@@ -1,0 +1,41 @@
+[
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "resource-id": "de.tobiasbielefeld.searchbar:id/imageButtonSelectSearchEngines"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "resource-id": "de.tobiasbielefeld.searchbar:id/item_text",
+            "text": "Bing"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "resource-id": "de.tobiasbielefeld.searchbar:id/item_text",
+            "text": "DuckDuckGo"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "resource-id": "de.tobiasbielefeld.searchbar:id/item_text",
+            "text": "Google"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "resource-id": "de.tobiasbielefeld.searchbar:id/item_text",
+            "text": "Bing"
+        }
+    }
+]

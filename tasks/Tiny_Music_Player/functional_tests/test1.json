@@ -1,0 +1,29 @@
+[
+    {
+        "type": "adb_command",
+        "cmdline": "push ./files/yinyue.mp3 /sdcard/Download/"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "content-desc": "Show roots"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Downloads"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "yinyue.mp3"
+        }
+    }
+]

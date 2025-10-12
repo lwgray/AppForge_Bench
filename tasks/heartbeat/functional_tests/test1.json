@@ -1,0 +1,9 @@
+[
+    {
+        "type": "click",
+        "package": "eu.berdosi.app.heartbeat",
+        "target": {
+            "resource-id": "eu.berdosi.app.heartbeat:id/floatingActionButton"
+        }
+    }
+]

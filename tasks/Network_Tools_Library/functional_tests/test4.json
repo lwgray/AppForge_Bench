@@ -1,0 +1,17 @@
+[
+    {
+        "type": "click",
+        "package": "com.stealthcotper.networktools",
+        "target": {
+            "resource-id": "com.stealthcotper.networktools:id/wolButton",
+            "text": "WAKE-ON-LAN"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.stealthcotper.networktools",
+        "target": {
+            "resource-id": "com.stealthcotper.networktools:id/resultText"
+        }
+    }
+]

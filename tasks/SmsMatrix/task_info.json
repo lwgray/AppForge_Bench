@@ -1,0 +1,24 @@
+{
+    "template": "empty_activity",
+    "package_name": "eu.droogers.smsmatrix",
+    "permissions": [
+        "android.permission.READ_SMS",
+        "android.permission.SEND_SMS",
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_PHONE_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.VIBRATE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.READ_CONTACTS",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_LOGS",
+        "android.permission.REORDER_TASKS"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

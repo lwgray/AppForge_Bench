@@ -1,0 +1,107 @@
+[
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/btn_skip"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/fab"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "content-desc": "19 August 2025"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/addFoodItem"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/inputSearchTerm"
+        },
+        "message": "egg"
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/search_fab"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/resultName"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/inputFoodAmount"
+        },
+        "message": "50"
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/addEntry"
+        }
+    },
+    {
+        "type": "back",
+        "package": "org.secuso.privacyfriendlyfoodtracker"
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "content-desc": "Open navigation drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/design_menu_item_text"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "content-desc": "Open navigation drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/design_menu_item_text",
+            "text": "Statistics"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "content-desc": "Month"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/pair_button"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/alertTitle",
+            "text": "Pair a New Server"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "text": "IP"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "text": "Port"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Pair"
+        }
+    }
+]

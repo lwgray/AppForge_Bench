@@ -1,0 +1,38 @@
+[
+    {
+        "type": "visible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "text": "Apk Extractor"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/txtAppName",
+            "text": "Tethering"
+        }
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/action_search"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/search_src_text"
+        }
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "content-desc": "Collapse"
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "type": "click",
+        "package": "com.nicobrailo.pianoli",
+        "target": {
+            "resource-id": "com.android.systemui:id/screen_pinning_cancel_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.nicobrailo.pianoli",
+        "target": {
+            "class": "android.widget.FrameLayout"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.nicobrailo.pianoli",
+        "target": {
+            "class": "android.widget.FrameLayout"
+        }
+    }
+]

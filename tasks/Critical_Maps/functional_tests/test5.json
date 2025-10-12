@@ -1,0 +1,55 @@
+[
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/understand_button",
+            "text": "ACCEPT"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "content-desc": "Open drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/design_menu_item_text",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "text": "Screen settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/settings_show_on_lockscreen_title",
+            "text": "Show on Lockscreen"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/settings_show_on_lockscreen_checkbox"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/settings_show_on_lockscreen_summary",
+            "text": "Keep the app in the foreground even when locking the phone"
+        }
+    }
+]

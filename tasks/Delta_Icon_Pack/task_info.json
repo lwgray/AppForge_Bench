@@ -1,0 +1,22 @@
+{
+    "template": "empty_activity",
+    "package_name": "website.leifs.delta.foss",
+    "permissions": [
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.WAKE_LOCK",
+        "android.permission.SET_WALLPAPER",
+        "com.android.alarm.permission.SET_ALARM",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_SETTINGS",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.FOREGROUND_SERVICE",
+        "website.leifs.delta.foss.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 5
+}

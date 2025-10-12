@@ -1,0 +1,41 @@
+[
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "class": "android.view.View",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "resource-id": "de.markusfisch.android.wavelines:id/edit_theme"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "resource-id": "de.markusfisch.android.wavelines:id/coupled",
+            "text": "Coupled waves ON"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "resource-id": "de.markusfisch.android.wavelines:id/uniform",
+            "text": "Uniform width OFF"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "resource-id": "de.markusfisch.android.wavelines:id/shuffle",
+            "text": "Random start color OFF"
+        }
+    }
+]

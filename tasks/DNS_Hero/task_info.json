@@ -1,0 +1,13 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.gianlu.dnshero",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE"
+    ],
+    "high-description": "DNS Hero - DNS management and testing tool",
+    "low-description": "A DNS management application for testing and configuring DNS settings",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

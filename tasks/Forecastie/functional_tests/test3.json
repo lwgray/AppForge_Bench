@@ -1,0 +1,72 @@
+[
+    {
+        "type": "click",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Temperature units"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Celsius"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Fahrenheit"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Kelvin"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Kelvin"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Kelvin"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "294.3 K"
+        }
+    }
+]

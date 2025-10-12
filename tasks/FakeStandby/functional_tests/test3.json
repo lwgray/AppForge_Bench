@@ -1,0 +1,10 @@
+[
+    {
+        "type": "click",
+        "package": "android.jonas.fakestandby",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Visit the project website"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "UTF-8"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "UTF-8"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "Big5"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "Big5"
+        }
+    }
+]

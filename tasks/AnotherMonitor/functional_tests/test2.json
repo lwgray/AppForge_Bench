@@ -1,0 +1,25 @@
+[
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/BHint",
+            "text": "ALRIGHT"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/BMemory",
+            "text": "Memory"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/LButtonRecord"
+        }
+    }
+]

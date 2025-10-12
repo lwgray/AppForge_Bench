@@ -1,0 +1,42 @@
+[
+    {
+        "type": "click",
+        "package": "android.jonas.fakestandby",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Escape methods"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android.jonas.fakestandby",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Tap the screen with 4 or more simultaneous touches"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android.jonas.fakestandby",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android.jonas.fakestandby",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Always show a notification to start the fake standby"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android.jonas.fakestandby",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Secure mode"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/activity_main_menu_icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Help"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.android.chrome"
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/activity_main_menu_icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Donate"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.android.chrome"
+    }
+]

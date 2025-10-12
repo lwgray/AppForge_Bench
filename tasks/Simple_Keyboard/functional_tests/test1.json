@@ -1,0 +1,56 @@
+[
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Languages"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "content-desc": "Add language"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Armenian (Armenia)"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Armenian (Armenia)"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Add"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Armenian (Armenia), English (US)"
+        }
+    }
+]

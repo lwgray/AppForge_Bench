@@ -1,0 +1,30 @@
+[
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "resource-id": "om.sstvencoder:id/action_play"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Sending\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "resource-id": "om.sstvencoder:id/action_stop"
+        }
+    },
+    {
+        "type": "invisible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Sending\u2026"
+        }
+    }
+]

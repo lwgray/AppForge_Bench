@@ -1,0 +1,71 @@
+[
+    {
+        "type": "adb_command",
+        "cmdline": "push ./files/yinyue.mp3 /sdcard/Download/"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "content-desc": "Show roots"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Downloads"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "yinyue.mp3"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 465 20 465 700 800"
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/text",
+            "text": "Tap to pause"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/text",
+            "text": "Tap to pause"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 465 20 465 700 800"
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/text",
+            "text": "Tap to play"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/text",
+            "text": "Tap to play"
+        }
+    }
+]

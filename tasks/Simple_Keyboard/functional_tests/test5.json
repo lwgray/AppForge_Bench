@@ -1,0 +1,34 @@
+[
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Key press"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Sound on keypress"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Sound on keypress"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Keypress sound volume"
+        }
+    }
+]

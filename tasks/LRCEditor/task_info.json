@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.cg.lrceditor",
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "high-description": "LRC Editor - Lyrics editor",
+    "low-description": "Lyrics editor for creating and editing LRC format lyrics files with time synchronization",
+    "widget_test_num": 0,
+    "functional_test_num": 1
+}

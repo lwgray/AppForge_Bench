@@ -1,0 +1,17 @@
+{
+    "template": "empty_activity",
+    "package_name": "tech.bogomolov.incomingsmsgateway",
+    "permissions": [
+        "android.permission.RECEIVE_SMS",
+        "android.permission.READ_SMS",
+        "android.permission.SEND_SMS",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "high-description": "SMS to URL Forwarder - Forward SMS messages to URLs",
+    "low-description": "An application that forwards incoming SMS messages to specified URLs",
+    "widget_test_num": 0,
+    "functional_test_num": 1
+}

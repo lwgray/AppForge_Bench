@@ -1,0 +1,33 @@
+[
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/adjustTimeImg"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/minutesCard"
+        },
+        "message": "5"
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/saveBtn",
+            "text": "SAVE TIME"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/clockTimeTv",
+            "text": "5:00"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/fab_new_task"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/et_task_name"
+        },
+        "message": "must"
+    },
+    {
+        "type": "input",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/et_task_description"
+        },
+        "message": "sleep"
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlytodolist:id/tv_task_priority"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "AtchDlg:org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "Select a priority:"
+        }
+    },
+    {
+        "type": "click",
+        "package": "AtchDlg:org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "High"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "OKAY"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "must"
+        }
+    }
+]

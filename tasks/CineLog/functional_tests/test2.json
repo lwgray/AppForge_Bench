@@ -1,0 +1,81 @@
+[
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "content-desc": "Open navigation drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "Series_review"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/fab"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/kino_search"
+        },
+        "message": "Sherlock"
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/kino_search_add_from_scratch"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "5"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/kino_review_date_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "2"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "OK"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/kino_review_text"
+        },
+        "message": "ok"
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/fab"
+        }
+    }
+]

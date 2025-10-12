@@ -1,0 +1,52 @@
+[
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "London, GB"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "resource-id": "cz.martykan.forecastie:id/action_search"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Search for city"
+        }
+    },
+    {
+        "type": "input",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "resource-id": "cz.martykan.forecastie:id/customPanel"
+        },
+        "message": "beijing"
+    },
+    {
+        "type": "click",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "OK"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "Beijing, CN"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "resource-id": "cz.martykan.forecastie:id/todayTemperature"
+        }
+    }
+]

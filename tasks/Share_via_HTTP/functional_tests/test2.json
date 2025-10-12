@@ -1,0 +1,80 @@
+[
+    {
+        "type": "click",
+        "package": "com.MarcosDiez.shareviahttp",
+        "target": {
+            "resource-id": "com.android.systemui:id/white_cutout"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 200 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Phone"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.dialer",
+        "target": {
+            "resource-id": "com.android.dialer:id/bottom_nav_item_text",
+            "text": "Contacts"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.dialer",
+        "target": {
+            "resource-id": "com.android.dialer:id/contact_name",
+            "text": "Kkk"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.contacts",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.contacts",
+        "target": {
+            "resource-id": "com.android.contacts:id/menu_item_share_contact"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/share_sheet_item"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "android",
+        "cmdline": "adb shell input touchscreen swipe 130 1100 130 600 800"
+    },
+    {
+        "type": "click",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Share via HTTP"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.MarcosDiez.shareviahttp",
+        "target": {
+            "resource-id": "com.MarcosDiez.shareviahttp:id/uriPath",
+            "text": "Kkk.vcf"
+        }
+    }
+]

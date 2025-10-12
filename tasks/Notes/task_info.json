@@ -1,0 +1,15 @@
+{
+    "template": "empty_activity",
+    "package_name": "org.billthefarmer.notes",
+    "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_MEDIA_LOCATION"
+    ],
+    "high-description": "Notes - Simple note-taking app",
+    "low-description": "Basic notes app for writing and storing text notes with file access",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

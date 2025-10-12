@@ -1,0 +1,25 @@
+[
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "content-desc": "Add..."
+        }
+    },
+    {
+        "type": "input",
+        "package": "net.gaast.giggity",
+        "target": {
+            "resource-id": "android:id/custom"
+        },
+        "message": "https://fosdem.org/2025/schedule/xml"
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

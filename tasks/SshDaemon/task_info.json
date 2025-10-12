@@ -1,0 +1,17 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.daemon.ssh",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "high-description": "SSH Daemon - SSH server for Android",
+    "low-description": "A SSH daemon server application for remote access to Android devices",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

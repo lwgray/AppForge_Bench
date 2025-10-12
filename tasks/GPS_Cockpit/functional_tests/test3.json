@@ -1,0 +1,35 @@
+[
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/copy"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/share"
+        }
+    },
+    {
+        "type": "back",
+        "package": "android"
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/title",
+            "text": "Clear AGPS Data"
+        }
+    }
+]

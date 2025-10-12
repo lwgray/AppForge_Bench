@@ -1,0 +1,11 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.llamacorp.equate",
+    "permissions": [
+        "android.permission.INTERNET"
+    ],
+    "high-description": "Equate - A mathematical equation solver and calculator application",
+    "low-description": "A calculator app that can solve complex mathematical equations and provide step-by-step solutions",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

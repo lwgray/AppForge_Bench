@@ -1,0 +1,14 @@
+{
+    "template": "empty_activity",
+    "package_name": "org.woheller69.TimeLapseCam",
+    "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECORD_AUDIO"
+    ],
+    "high-description": "TimeLapseCam - A time-lapse camera application for creating time-lapse videos",
+    "low-description": "A camera app that captures photos at regular intervals to create time-lapse videos",
+    "widget_test_num": 0,
+    "functional_test_num": 5
+}

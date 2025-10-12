@@ -1,0 +1,63 @@
+[
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "text": "HOSTS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/automatic_refresh",
+            "text": "Refresh daily"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/floating_action_button"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/title"
+        },
+        "message": "kk"
+    },
+    {
+        "type": "input",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/location_layout"
+        },
+        "message": "example.com"
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Deny"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/action_save"
+        }
+    }
+]

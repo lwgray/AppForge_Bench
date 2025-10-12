@@ -1,0 +1,39 @@
+[
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyludo:id/section_label",
+            "text": "4 players"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyludo:id/arrow_right"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyludo:id/section_label",
+            "text": "6 players"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyludo:id/text_own_dice"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyludo:id/switch_own_dice"
+        }
+    }
+]

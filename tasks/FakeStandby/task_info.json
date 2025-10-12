@@ -1,0 +1,15 @@
+{
+    "template": "empty_activity",
+    "package_name": "android.jonas.fakestandby",
+    "permissions": [
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.WAKE_LOCK",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "high-description": "FakeStandby - Screen dimming and fake standby mode",
+    "low-description": "Creates a fake standby mode by dimming the screen while keeping the device active",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

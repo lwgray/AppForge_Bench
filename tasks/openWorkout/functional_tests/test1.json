@@ -1,0 +1,27 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/trainingNameView"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Seven minutes workout training"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/radioFemale"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/startTextView"
+        }
+    }
+]

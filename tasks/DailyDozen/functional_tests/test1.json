@@ -1,0 +1,47 @@
+[
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/food_checkboxes"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/food_history"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "text": "22"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/food_name",
+            "text": "Other Fruits \uf05a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/change_units_button",
+            "text": "IMPERIAL"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/food_info_videos",
+            "text": "VIDEOS"
+        }
+    }
+]

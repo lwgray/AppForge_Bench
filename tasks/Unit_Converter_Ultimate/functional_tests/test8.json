@@ -1,0 +1,79 @@
+[
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/design_menu_item_text",
+            "text": "Pressure"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_from",
+            "text": "From"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "text": "Bar"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_unit_from",
+            "text": "Bar"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_value_from",
+            "text": "1.0"
+        }
+    },
+        {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_to",
+            "text": "To"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "text": "mm Hg"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_unit_to",
+            "text": "mm Hg"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_value_to",
+            "text": "750.0616"
+        }
+    }
+]

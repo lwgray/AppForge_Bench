@@ -1,0 +1,66 @@
+[
+    {
+        "type": "click",
+        "package": "com.ath0.rpn",
+        "target": {
+            "text": "Accept"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ath0.rpn",
+        "target": {
+            "text": "4"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ath0.rpn",
+        "target": {
+            "resource-id": "com.ath0.rpn:id/enter"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ath0.rpn",
+        "target": {
+            "text": "5"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ath0.rpn",
+        "target": {
+            "resource-id": "com.ath0.rpn:id/enter"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ath0.rpn",
+        "target": {
+            "text": "7"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ath0.rpn",
+        "target": {
+            "text": "\u00d7"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ath0.rpn",
+        "target": {
+            "resource-id": "com.ath0.rpn:id/minus"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.ath0.rpn",
+        "target": {
+            "resource-id": "com.ath0.rpn:id/Display",
+            "text": "-31"
+        }
+    }
+]

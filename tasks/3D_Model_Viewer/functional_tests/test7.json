@@ -1,0 +1,81 @@
+[
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Load Model"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Samples"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "ToyPlane.obj"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "org.andresoviedo.dddmodel2:id/button_settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Skybox"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Skybox"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "None"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Sea"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Sand"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.andresoviedo.dddmodel2",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Sea"
+        }
+    }
+]

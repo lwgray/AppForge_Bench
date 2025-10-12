@@ -1,0 +1,40 @@
+[
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "TUNER"
+        }
+    },
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "mn.tck.semitone:id/settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "A4 pitch"
+        }
+    },
+    {
+        "type": "input",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "mn.tck.semitone:id/custom"
+        },
+        "message": "440"
+    },
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    }
+]

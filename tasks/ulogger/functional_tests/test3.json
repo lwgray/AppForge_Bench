@@ -1,0 +1,73 @@
+[
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/menu_settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Minimum time"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "10 seconds"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Minimum distance"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "50 m"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Minimum accuracy"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "25 m"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Location provider"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "GPS"
+        }
+    }
+]

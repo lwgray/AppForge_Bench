@@ -1,0 +1,89 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "com.android.permissioncontroller:id/permission_allow_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/smallLabel",
+            "text": "Map"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "class": "android.widget.ImageView",
+            "index": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/fabLocation"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/fabAdd"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/mainFab"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/mapCreateNewPoi",
+            "text": "Add"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.cityzen.cityzen"
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/fabClearMap"
+        }
+    }
+]

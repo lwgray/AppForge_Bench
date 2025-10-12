@@ -1,0 +1,50 @@
+[
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.systemui:id/white_cutout"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 150 800"
+    },
+    {
+        "type": "longclick",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Simple Search"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/app_shortcut_widgets"
+        }
+    },
+    {
+        "type": "longclick",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/widget_preview_container"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/widget_host_view"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "text": "Search for\u2026"
+        }
+    }
+]

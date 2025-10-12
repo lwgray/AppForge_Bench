@@ -1,0 +1,56 @@
+[
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Modes"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "om.sstvencoder",
+        "cmdline": "adb shell input touchscreen swipe 560 1000 560 340 800"
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Scottie 1"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Scottie 2"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Scottie DX"
+        }
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Scottie DX"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Scottie DX"
+        }
+    }
+]

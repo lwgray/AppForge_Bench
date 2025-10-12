@@ -1,0 +1,70 @@
+[
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "class": "android.view.View",
+            "index": "2"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "class": "android.widget.RelativeLayout",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "class": "android.widget.RelativeLayout",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "class": "android.widget.RelativeLayout",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "package": "de.markusfisch.android.wavelines",
+            "index": "0"
+        }
+    }
+]

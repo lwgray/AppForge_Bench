@@ -1,0 +1,45 @@
+[
+    {
+        "type": "click",
+        "package": "com.unitstool",
+        "target": {
+            "text": "Distance"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.unitstool",
+        "target": {
+            "resource-id": "RNE__Input__text-input"
+        },
+        "message": "1000"
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "cm"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "10,000 mm"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "10 m"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "0.01 km"
+        }
+    }
+]

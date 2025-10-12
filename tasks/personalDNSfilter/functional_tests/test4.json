@@ -1,0 +1,30 @@
+[
+    {
+        "type": "visible",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "DNS:"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "RELOAD FILTER"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "CLOSE"
+        }
+    },
+    {
+        "type": "invisible",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "text": "DNS:"
+        }
+    }
+]

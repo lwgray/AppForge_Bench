@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "de.markusfisch.android.wavelines",
+    "permissions": [
+        "android.permission.SET_WALLPAPER",
+        "android.permission.SET_WALLPAPER_HINTS"
+    ],
+    "high-description": "Wave Lines Live Wallpaper - Animated wallpaper app",
+    "low-description": "A live wallpaper application featuring animated wave line patterns",
+    "widget_test_num": 0,
+    "functional_test_num": 4
+}

@@ -1,0 +1,75 @@
+[
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "content-desc": "Open Navigator"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "text": "Food"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/edit_text",
+            "text": "Name"
+        },
+        "message": "Oatmeal"
+    },
+    {
+        "type": "input",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "text": "Carbohydrates in g"
+        },
+        "message": "68"
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/back_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "content-desc": "Open Navigator"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "text": "Export"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    }
+]

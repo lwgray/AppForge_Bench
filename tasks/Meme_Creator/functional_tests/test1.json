@@ -1,0 +1,115 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "text": "Continue"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "cs4295.memecreator:id/welcomeScreenImage"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "cs4295.memecreator:id/welcomeScreenImage"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Photos"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.photos",
+        "target": {
+            "resource-id": "com.google.android.apps.photos:id/title",
+            "text": "Pictures"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.photos",
+        "target": {
+            "content-desc": "Photo taken on Jul 26, 2025 4:53:17 PM"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "cs4295.memecreator:id/memeEditorLayout"
+        }
+    },
+    {
+        "type": "longclick",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "cs4295.memecreator:id/memeEditorLayout"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "cs4295.memecreator:id/forwardButtonImage"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "cs4295.memecreator:id/saveButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "android:id/custom"
+        }
+    },
+    {
+        "type": "input",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "android:id/custom"
+        },
+        "message": "meme"
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Save"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cs4295.memecreator",
+        "target": {
+            "resource-id": "cs4295.memecreator:id/shareButton"
+        }
+    },
+    {
+        "type": "back",
+        "package": "android"
+    }
+]

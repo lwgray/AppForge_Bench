@@ -1,0 +1,24 @@
+[
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/gps_cont"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/action_satview"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/alertTitle",
+            "text": "Satellites"
+        }
+    }
+]

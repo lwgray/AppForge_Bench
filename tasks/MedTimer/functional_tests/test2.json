@@ -1,0 +1,26 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/skip"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/chipTaken"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/statisticsFragment"
+        }
+    }
+]

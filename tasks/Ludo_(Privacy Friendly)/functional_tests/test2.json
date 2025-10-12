@@ -1,0 +1,37 @@
+[
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyludo:id/game_button_start"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyludo:id/button_add_player"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "text": "player"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyludo:id/switch_player_type"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.secuso.privacyfriendlyludo",
+        "target": {
+            "text": "computer"
+        }
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "makeinfo.com.getid",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "high-description": "Get id - Display device identifiers",
+    "low-description": "Shows Android device ID and other identifiers",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

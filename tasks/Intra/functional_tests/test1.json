@@ -1,0 +1,105 @@
+[
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/intro_next"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/intro_next"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/intro_accept"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.vpndialogs",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/design_menu_item_text"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/design_menu_item_text",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Select DNS over HTTPS Server"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Google Public DNS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "android:id/text1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "android:id/text1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Cloudflare 1.1.1.1 DNS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "ACCEPT"
+        }
+    }
+]

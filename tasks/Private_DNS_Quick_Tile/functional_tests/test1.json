@@ -1,0 +1,71 @@
+[
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "com.jpwolfso.privdnsqt:id/check_auto",
+            "text": "DNS Auto"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "com.jpwolfso.privdnsqt:id/check_on",
+            "text": "DNS On"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "com.jpwolfso.privdnsqt:id/button_ok",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 369 800 369 100 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Private DNS Quick Tile Modes"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "com.jpwolfso.privdnsqt:id/check_off",
+            "text": "DNS Off"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "com.jpwolfso.privdnsqt:id/check_auto",
+            "text": "DNS Auto"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "com.jpwolfso.privdnsqt:id/button_ok",
+            "text": "OK"
+        }
+    }
+]

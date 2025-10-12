@@ -1,0 +1,53 @@
+[
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/md_buttonDefaultPositive"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.donnnno.arcticons"
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/design_menu_item_text",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/title",
+            "text": "Theme"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/subtitle",
+            "text": "Dark"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/name",
+            "text": "Auto"
+        }
+    }
+]

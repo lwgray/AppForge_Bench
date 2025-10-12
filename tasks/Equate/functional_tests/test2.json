@@ -1,0 +1,50 @@
+[
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "Area"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button1",
+            "text": "IN\u00b2"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/one_button",
+            "text": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/zero_button",
+            "text": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button4",
+            "text": "\u279c\u00a0ACRE"
+        }
+    }
+]

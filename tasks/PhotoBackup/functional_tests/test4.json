@@ -1,0 +1,49 @@
+[
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Configure a server"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "fr.s13d.photobackup:id/servername",
+            "text": "PhotoBackup"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Activate Basic Auth"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "The server do not use HTTP Basic Auth"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "The server uses HTTP Basic Auth"
+        }
+    }
+]

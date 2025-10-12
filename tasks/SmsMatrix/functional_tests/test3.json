@@ -1,0 +1,88 @@
+[
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "com.android.systemui:id/white_cutout"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 200 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Apps"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "SmsMatrix"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 200 800"
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Battery"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.settings",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 200 800"
+    },
+    {
+        "type": "visible",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Unrestricted"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Optimized"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Restricted"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Unrestricted"
+        }
+    }
+]

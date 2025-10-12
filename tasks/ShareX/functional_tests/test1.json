@@ -1,0 +1,23 @@
+[
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/serverBtn"
+        }
+    },
+    {
+        "type": "invisible",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "text": "$ Welcome to ShareX"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/serverBtn"
+        }
+    }
+]

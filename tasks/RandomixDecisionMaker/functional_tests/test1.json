@@ -1,0 +1,61 @@
+[
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/done"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/textOptionRoulette"
+        },
+        "message": "1"
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/insertButton"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/textOptionRoulette"
+        },
+        "message": "2"
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/insertButton"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/textOptionRoulette"
+        },
+        "message": "3"
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/insertButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/buttonSpinRoulette"
+        }
+    }
+]

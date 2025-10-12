@@ -1,0 +1,123 @@
+[
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/md_buttonDefaultPositive",
+            "text": "CLOSE"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/toolbar_title",
+            "text": "Home"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/bookmark_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/bookmark_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/design_menu_item_text",
+            "text": "Wallpapers"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/toolbar_title",
+            "text": "Wallpapers"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/toolbar_title",
+            "text": "Wallpapers"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/menu_search"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/search_input",
+            "text": "Wallpaper name"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "content-desc": "Collapse"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/image"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/menu_save"
+        }
+    },
+    {
+        "type": "click",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/menu_apply"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/title",
+            "text": "Lockscreen"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/title",
+            "text": "Homescreen"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "website.leifs.delta.foss",
+        "target": {
+            "resource-id": "website.leifs.delta.foss:id/title",
+            "text": "Homescreen & Lockscreen"
+        }
+    }
+]

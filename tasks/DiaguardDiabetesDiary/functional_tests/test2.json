@@ -1,0 +1,61 @@
+[
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/tag_input",
+            "text": "Tags"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "text": "sick"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/note_input"
+        },
+        "message": "egg"
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/action_search"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/input_field"
+        },
+        "message": "egg"
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/date_label"
+        }
+    }
+]

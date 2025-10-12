@@ -1,0 +1,20 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.dozingcatsoftware.bouncy:id/unlimitedBallsToggle"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.dozingcatsoftware.bouncy:id/startGameButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.FrameLayout"
+        }
+    }
+]

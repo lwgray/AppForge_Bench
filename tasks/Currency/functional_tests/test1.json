@@ -1,0 +1,26 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.currency",
+        "target": {
+            "resource-id": "org.billthefarmer.currency:id/name",
+            "text": "USD"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.currency",
+        "target": {
+            "resource-id": "org.billthefarmer.currency:id/name",
+            "text": "GBP"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.currency",
+        "target": {
+            "resource-id": "org.billthefarmer.currency:id/name",
+            "text": "CAD"
+        }
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Low Battery"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/checkbox"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Low Storage Space"
+        }
+    },
+
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "org.woheller69.TimeLapseCam:id/action_start"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "org.woheller69.TimeLapseCam:id/action_stop"
+        }
+    }
+]

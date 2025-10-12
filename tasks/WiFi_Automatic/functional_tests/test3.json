@@ -1,0 +1,26 @@
+[
+    {
+        "type": "visible",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "when device gets unlocked"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "when device gets unlocked"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.j4velin.wifiAutoOff",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "when device gets unlocked"
+        }
+    }
+]

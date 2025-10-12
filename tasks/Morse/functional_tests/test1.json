@@ -1,0 +1,44 @@
+[
+    {
+        "type": "click",
+        "package": "rocks.poopjournal.morse",
+        "target": {
+            "resource-id": "rocks.poopjournal.morse:id/switchId"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rocks.poopjournal.morse",
+        "target": {
+            "resource-id": "rocks.poopjournal.morse:id/input_dot"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rocks.poopjournal.morse",
+        "target": {
+            "resource-id": "rocks.poopjournal.morse:id/input_dot"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rocks.poopjournal.morse",
+        "target": {
+            "resource-id": "rocks.poopjournal.morse:id/input_dot"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rocks.poopjournal.morse",
+        "target": {
+            "resource-id": "rocks.poopjournal.morse:id/input_dash"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rocks.poopjournal.morse",
+        "target": {
+            "resource-id": "rocks.poopjournal.morse:id/input_dash"
+        }
+    }
+]

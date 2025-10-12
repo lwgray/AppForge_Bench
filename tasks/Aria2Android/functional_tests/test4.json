@@ -1,0 +1,34 @@
+[
+    {
+        "type": "click",
+        "package": "com.gianlu.aria2android",
+        "target": {
+            "resource-id": "android:id/button3",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.gianlu.aria2android",
+        "target": {
+            "resource-id": "com.gianlu.aria2android:id/mp_title",
+            "text": "Start service when the system boots"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.aria2android",
+        "target": {
+            "resource-id": "com.gianlu.aria2android:id/mp_title",
+            "text": "Start service when the system boots"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.gianlu.aria2android",
+        "target": {
+            "resource-id": "com.gianlu.aria2android:id/mp_summary",
+            "text": "The service will start when the device turns on."
+        }
+    }
+]

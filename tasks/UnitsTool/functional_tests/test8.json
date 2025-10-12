@@ -1,0 +1,15 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "content-desc": "More Options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.unitstool",
+        "target": {
+            "text": " Dark mode"
+        }
+    }
+]

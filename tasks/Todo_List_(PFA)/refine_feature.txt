@@ -1,0 +1,24 @@
+description: An app for creating, managing, and sharing to-do lists and tasks, with the ability to customize settings and export data.
+
+feature 1: Create and manage to-do lists.
+sub-feature 1-1: Allows users to create new to-do lists.
+    When the user clicks on the "Add" button, identified by the resource-id `org.secuso.privacyfriendlytodolist:id/ac_add`, a new screen with the title "New To-Do list" becomes visible. The user then inputs the text "Buy vegetables tomorrow" into the to-do list name field, which is identified by the resource-id `org.secuso.privacyfriendlytodolist:id/et_todo_list_name`. After entering the text, the user clicks the "OKAY" button, which confirms the creation of the new to-do list. Finally, the newly created to-do list with the name "Buy vegetables tomorrow" is displayed, indicating that the to-do list has been successfully added.
+
+feature 2: Create and manage tasks, including setting priorities.
+sub-feature 2-1: Allows users to add new tasks.
+    When the user opens the app, they can start by clicking on the "Add New Task" button, which is identified by the resource-id `org.secuso.privacyfriendlytodolist:id/fab_new_task`. This action opens a new task creation screen where the user can input the task name in the field with the resource-id `org.secuso.privacyfriendlytodolist:id/et_task_name`, and for this test, the user inputs "must". Next, the user can add a description to the task by entering "sleep" in the task description field, which has the resource-id `org.secuso.privacyfriendlytodolist:id/et_task_description`.
+sub-feature 2-2: Allows users to set priorities for tasks.
+    To set the priority of the task, the user clicks on the priority selection button, identified by the resource-id `org.secuso.privacyfriendlytodolist:id/tv_task_priority`, and a dialog appears with 
+the text "Select a priority:". In this dialog, the user selects "High" as the priority, and then confirms the selection by clicking the "OKAY" button. After completing these steps, the newly created task with the name "must" should be visible in the main task list, confirming that the task has been successfully added and prioritized.
+
+feature 3: Access and modify settings related to task management.
+sub-feature 3-1: Allows users to toggle the expansion of tasks with subtasks.
+    When the user opens the app, they can navigate to the settings menu by clicking on the "Open menu" button, which is identified by its content-desc attribute. From there, the user can select the "Settings" option, which is labeled with the text "Settings". Upon entering the settings, an option titled "Expand tasks that have subtasks" becomes visible, as indicated by its text. By clicking on this option, the user can toggle the setting, enabling or disabling the expansion of tasks that contain subtasks.
+
+feature 4: Share data with others.
+sub-feature 4-1: Allows users to share their data with nearby devices.
+    When the user opens the menu by clicking on the button with the content description "Open menu," they can then select the "Share data" option, which is identified by its text attribute. After selecting "Share data," the user is presented with a sharing interface where the "Nearby" option, indicated by its text, becomes visible, suggesting that the user can share their data with nearby devices.  
+
+feature 5: Export data.
+sub-feature 5-1: Allows users to export their data to a CSV file.
+    When the user clicks on the "Open menu" button, identified by its content-desc attribute, the menu options are displayed. Next, when the user selects the "Export data" option, which is recognized by its text attribute, the system initiates the data export process. The user is then directed to a file selection screen where the "ToDo Data.csv" file, identified by its text attribute, becomes visible, indicating that the data has been prepared for export. Finally, when the user clicks on the "SAVE" button, also identified by its text attribute, the data is saved, completing the export process.

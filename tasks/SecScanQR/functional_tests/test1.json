@@ -1,0 +1,27 @@
+[
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "Scan"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/largeLabel"
+        }
+    },
+    {
+        "type": "back",
+        "package": "de.t_dankworth.secscanqr"
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    }
+]

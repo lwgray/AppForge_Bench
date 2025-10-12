@@ -1,0 +1,31 @@
+[
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "content-desc": "Open navigation drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/design_menu_item_text",
+            "text": "Log"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/action_export"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/action_refresh"
+        }
+    }
+]

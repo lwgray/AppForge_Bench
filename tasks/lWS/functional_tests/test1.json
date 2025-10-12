@@ -1,0 +1,34 @@
+[
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonSettings",
+            "text": "SETTINGS"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Document root"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Document root"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

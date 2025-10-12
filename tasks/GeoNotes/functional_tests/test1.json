@@ -1,0 +1,23 @@
+[
+    {
+        "type": "click",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "resource-id": "de.hauke_stieler.geonotes:id/main_layout"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "resource-id": "de.hauke_stieler.geonotes:id/camera_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "resource-id": "de.hauke_stieler.geonotes:id/camera_button"
+        }
+    }
+]

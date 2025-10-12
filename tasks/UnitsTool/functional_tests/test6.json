@@ -1,0 +1,45 @@
+[
+    {
+        "type": "click",
+        "package": "com.unitstool",
+        "target": {
+            "text": "Volume"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.unitstool",
+        "target": {
+            "resource-id": "RNE__Input__text-input"
+        },
+        "message": "1000"
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "m\u00b3"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "1,000,000,000 cm\u00b3"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "61,023,744.1 in\u00b3"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "35,314.67 ft\u00b3"
+        }
+    }
+]

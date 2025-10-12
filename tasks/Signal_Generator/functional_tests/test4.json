@@ -1,0 +1,17 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Help"
+        }
+    }
+]

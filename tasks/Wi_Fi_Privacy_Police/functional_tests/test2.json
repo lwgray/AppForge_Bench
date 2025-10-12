@@ -1,0 +1,26 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "com.android.permissioncontroller:id/continue_button",
+            "text": "Continue"
+        }
+    },
+    {
+        "type": "click",
+        "package": "be.uhasselt.privacypolice",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "be.uhasselt.privacypolice",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Data protection"
+        }
+    }
+]

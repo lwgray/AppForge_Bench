@@ -1,0 +1,39 @@
+[
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "METRONOME"
+        }
+    },
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "mn.tck.semitone:id/plus"
+        }
+    },
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "mn.tck.semitone:id/plus"
+        }
+    },
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "mn.tck.semitone:id/start"
+        }
+    },
+    {
+        "type": "click",
+        "package": "mn.tck.semitone",
+        "target": {
+            "resource-id": "mn.tck.semitone:id/start",
+            "text": "STOP"
+        }
+    }
+]

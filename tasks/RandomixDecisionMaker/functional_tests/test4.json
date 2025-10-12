@@ -1,0 +1,77 @@
+[
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/done"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/navigation_bar_item_small_label_view",
+            "text": "Magic Ball"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/magicBallRecentButton"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/customAnswerTextLayout"
+        },
+        "message": "hi"
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/text_input_end_icon"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/customAnswerTextLayout"
+        },
+        "message": "hello"
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/text_input_end_icon"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.minar.randomix"
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/customAnswerSwitch",
+            "text": "Use custom answers"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.minar.randomix"
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/magicBallButtonAnimation"
+        }
+    }
+]

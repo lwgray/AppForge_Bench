@@ -1,0 +1,53 @@
+[
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "make a note"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "resource-id": "com.git.amarradi.leafpad:/title"
+        },
+        "massage": "aaa"
+    },
+    {
+        "type": "input",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "resource-id": "com.git.amarradi.leafpad:/note"
+        },
+        "massage": "abc"
+    },
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "save note"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "aaa"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "abc"
+        }
+    }
+]

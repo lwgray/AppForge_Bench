@@ -1,0 +1,30 @@
+[
+    {
+        "type": "click",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "text": "List of notes"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "text": "List of notes"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.hauke_stieler.geonotes",
+        "target": {
+            "text": "All notes"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.dozingcatsoftware.bouncy:id/highScoreButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.dozingcatsoftware.bouncy:id/hideHighScoreButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.dozingcatsoftware.bouncy:id/nextTableButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.dozingcatsoftware.bouncy:id/startGameButton"
+        }
+    }
+]

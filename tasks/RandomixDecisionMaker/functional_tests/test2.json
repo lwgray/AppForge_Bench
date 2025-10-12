@@ -1,0 +1,34 @@
+[
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/done"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/recentButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/lettersChip"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.minar.randomix"
+    },
+    {
+        "type": "click",
+        "package": "com.minar.randomix",
+        "target": {
+            "resource-id": "com.minar.randomix:id/buttonSpinRoulette"
+        }
+    }
+]

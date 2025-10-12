@@ -1,0 +1,54 @@
+[
+    {
+        "type": "invisible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/txtAppName",
+            "text": "Google"
+        }
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/action_search"
+        }
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/search_src_text"
+        }
+    },
+    {
+        "type": "input",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/search_src_text"
+        },
+        "message": "google"
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "content-desc": "Go"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/txtAppName",
+            "text": "Google"
+        }
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "content-desc": "Collapse"
+        }
+    }
+]

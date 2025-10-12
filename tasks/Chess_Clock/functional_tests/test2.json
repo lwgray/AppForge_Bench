@@ -1,0 +1,46 @@
+[
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/playerTwoClockContainer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/playerOneClockContainer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/playerTwoClockContainer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/resetBtn"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "YES"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/movesTv",
+            "text": "Moves: 0"
+        }
+    }
+]

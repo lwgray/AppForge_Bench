@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "hev.sockstun",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "high-description": "SocksTun - SOCKS/HTTP tunnel",
+    "low-description": "Tun-based TCP relay with SOCKS/HTTP proxy support",
+    "widget_test_num": 0,
+    "functional_test_num": 5
+}

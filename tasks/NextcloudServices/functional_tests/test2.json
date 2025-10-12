@@ -1,0 +1,33 @@
+[
+    {
+        "type": "click",
+        "package": "com.polar.nextcloudservices",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.polar.nextcloudservices",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Allow roaming"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.polar.nextcloudservices",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Allow metered networks"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.polar.nextcloudservices",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Enable service"
+        }
+    }
+]

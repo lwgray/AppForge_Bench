@@ -1,0 +1,54 @@
+[
+    {
+        "type": "visible",
+        "target": {
+            "resource-id": "io.github.tiagoshibata.gpsdclient:id/serverAddress",
+            "text": "Server address"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "resource-id": "io.github.tiagoshibata.gpsdclient:id/serverPort",
+            "text": "Server port"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "resource-id": "io.github.tiagoshibata.gpsdclient:id/startStopButton",
+            "text": "Start"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "io.github.tiagoshibata.gpsdclient:id/serverAddress"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "content-desc": "c"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "io.github.tiagoshibata.gpsdclient:id/serverPort"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "content-desc": "1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "io.github.tiagoshibata.gpsdclient:id/startStopButton",
+            "text": "Start"
+        }
+    }
+]

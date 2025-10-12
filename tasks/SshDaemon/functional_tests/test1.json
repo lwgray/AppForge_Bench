@@ -1,0 +1,54 @@
+[
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.android.settings"
+    },
+    {
+        "type": "back",
+        "package": "com.android.settings"
+    },
+    {
+        "type": "input",
+        "package": "com.daemon.ssh",
+        "target": {
+            "resource-id": "com.daemon.ssh:id/user_layout"
+        },
+        "message": "kk"
+    },
+    {
+        "type": "input",
+        "package": "com.daemon.ssh",
+        "target": {
+            "resource-id": "com.daemon.ssh:id/password_layout"
+        },
+        "message": "0000"
+    },
+    {
+        "type": "click",
+        "package": "com.daemon.ssh",
+        "target": {
+            "resource-id": "com.daemon.ssh:id/readonly_switch"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.daemon.ssh",
+        "target": {
+            "resource-id": "com.daemon.ssh:id/generate"
+        }
+    }
+]

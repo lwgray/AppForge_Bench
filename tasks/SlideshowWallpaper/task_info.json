@@ -1,0 +1,15 @@
+{
+    "template": "empty_activity",
+    "package_name": "io.github.doubi88.slideshowwallpaper",
+    "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.SET_WALLPAPER",
+        "android.permission.SET_WALLPAPER_HINTS",
+        "android.permission.WAKE_LOCK"
+    ],
+    "high-description": "Slideshow Wallpaper - Dynamic wallpaper with slideshow functionality",
+    "low-description": "An application that creates dynamic wallpapers using a slideshow of images",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

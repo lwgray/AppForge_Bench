@@ -1,0 +1,50 @@
+[
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Medias to backup"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Backup videos"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Backup videos"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Photos and videos"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Backup videos"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Photos only"
+        }
+    }
+]

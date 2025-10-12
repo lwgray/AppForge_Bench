@@ -1,0 +1,47 @@
+[
+    {
+        "type": "invisible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "text": "Camera"
+        }
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/action_search"
+        }
+    },
+    {
+        "type": "input",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/search_src_text"
+        },
+        "message": "camera"
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "content-desc": "Go"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/txtAppName",
+            "text": "Camera"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/txtPackageName",
+            "text": "com.android.camera2"
+        }
+    }
+]

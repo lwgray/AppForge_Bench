@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "class": "android.view.View",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "resource-id": "de.markusfisch.android.wavelines:id/set_theme"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.wallpaper.livepicker",
+        "target": {
+            "resource-id": "com.android.wallpaper.livepicker:id/preview_attribution_pane_set_wallpaper_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.wallpaper.livepicker",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Home screen and lock screen"
+        }
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/design_menu_item_text",
+            "text": "Power"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_from",
+            "text": "From"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "text": "Megawatt"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_unit_from",
+            "text": "Megawatt"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_value_from",
+            "text": "1.0"
+        }
+    },
+        {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_to",
+            "text": "To"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "text": "Watt"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_unit_to",
+            "text": "Watt"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_value_to",
+            "text": "1000000"
+        }
+    }
+]

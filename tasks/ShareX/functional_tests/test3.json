@@ -1,0 +1,44 @@
+[
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/nav_btn"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "text": "Restrict Modification"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/sett_resMod_checkBox"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/sett_resMod_checkBox"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "text": "Files/folders cannot be deleted and renamed"
+        }
+    }
+]

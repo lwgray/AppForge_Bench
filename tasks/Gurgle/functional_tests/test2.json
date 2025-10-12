@@ -1,0 +1,40 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "Highlight colours"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "android:id/alertTitle",
+            "text": "Select highlight colours"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "android:id/button3",
+            "text": "RESET"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

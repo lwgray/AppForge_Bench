@@ -1,0 +1,68 @@
+[
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/action_add"
+        }
+    },
+    {
+        "type": "input",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/TitreNoteEdition"
+        },
+        "message": "aa"
+    },
+    {
+        "type": "input",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/NoteEdition"
+        },
+        "message": "abc"
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Save"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/action_settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Note export"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Export database in a zip archive"
+        }
+    },
+    {
+        "type": "input",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:android.widget.EditText"
+        },
+        "message": "kkk"
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Export"
+        }
+    }
+]

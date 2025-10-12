@@ -1,0 +1,34 @@
+[
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/navigation_bar_item_small_label_view",
+            "text": "Apps"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/name_text_view",
+            "text": "Android 2 Linux Notifications"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/name_text_view",
+            "text": "Calendar"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/name_text_view",
+            "text": "Camera"
+        }
+    }
+]

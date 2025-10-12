@@ -1,0 +1,20 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "de.arnowelzel.android.periodical:id/buttontoday"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "de.arnowelzel.android.periodical:id/cal28"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    }
+]

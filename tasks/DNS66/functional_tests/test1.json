@@ -1,0 +1,55 @@
+[
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/start_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "YES"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.vpndialogs",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "text": "Resume on system start-up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/watchdog",
+            "text": "Watch connection"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "CONTINUE"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/action_refresh"
+        }
+    }
+]

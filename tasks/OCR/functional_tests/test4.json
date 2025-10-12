@@ -1,0 +1,44 @@
+[
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "resource-id": "io.github.subhamtyagi.ocr:id/action_settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Select Tesseract Data type"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Fast"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Best"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Standard"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Standard"
+        }
+    }
+]

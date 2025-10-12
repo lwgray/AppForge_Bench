@@ -1,0 +1,14 @@
+{
+    "template": "empty_activity",
+    "package_name": "org.itxtech.daedalus",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.EXPAND_STATUS_BAR"
+    ],
+    "high-description": "Daedalus - DNS over HTTPS client",
+    "low-description": "Secure DNS client supporting DNS over HTTPS and DNS over TLS protocols",
+    "widget_test_num": 0,
+    "functional_test_num": 4
+}

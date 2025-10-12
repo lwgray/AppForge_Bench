@@ -1,0 +1,53 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "Get code"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "Code"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "QR code"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "Code"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "android:id/alertTitle",
+            "text": "Enter code"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

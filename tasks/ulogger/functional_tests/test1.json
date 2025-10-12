@@ -1,0 +1,65 @@
+[
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/buttonNewTrack"
+        }
+    },
+    {
+        "type": "input",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/newtrack_edittext"
+        },
+        "message": "newtrack"
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/newtrack_button_submit"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/switchLogger"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/buttonWaypoint"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/waypointComment",
+            "text": "Waypoint description"
+        }
+    },
+    {
+        "type": "input",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/waypointComment"
+        },
+        "message": "newtrack"
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/waypointButton"
+        }
+    },
+    {
+        "type": "back",
+        "package": "net.fabiszewski.ulogger"
+    }
+]

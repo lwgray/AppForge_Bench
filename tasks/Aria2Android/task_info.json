@@ -1,0 +1,20 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.gianlu.aria2android",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.WAKE_LOCK",
+        "com.android.vending.BILLING",
+        "com.gianlu.aria2android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 5
+}

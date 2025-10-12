@@ -1,0 +1,83 @@
+[
+    {
+        "type": "click",
+        "package": "com.jpwolfso.privdnsqt",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.systemui:id/white_cutout"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 369 800 369 100 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "text": "Search settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.settings.intelligence",
+        "target": {
+            "content-desc": "d"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.settings.intelligence",
+        "target": {
+            "content-desc": "n"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.settings.intelligence",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Private DNS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Private DNS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.settings:id/private_dns_mode_off",
+            "text": "Off"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Save"
+        }
+    }
+]

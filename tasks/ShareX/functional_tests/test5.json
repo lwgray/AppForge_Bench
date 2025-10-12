@@ -1,0 +1,51 @@
+[
+    {
+        "type": "visible",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "text": "$ Welcome to ShareX\n"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/serverBtn"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/serverBtn"
+        }
+    },
+    {
+        "type": "invisible",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "text": "$ Welcome to ShareX\\n"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/nav_btn"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "text": "Clear Logs"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "text": "$ Welcome to ShareX\n"
+        }
+    }
+]

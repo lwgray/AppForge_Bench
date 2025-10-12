@@ -1,0 +1,17 @@
+{
+    "template": "empty_activity",
+    "package_name": "net.gaast.giggity",
+    "permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.USE_EXACT_ALARM",
+        "android.permission.VIBRATE",
+        "com.android.launcher.permission.INSTALL_SHORTCUT"
+    ],
+    "high-description": "Giggity - Conference schedule viewer",
+    "low-description": "Conference and event schedule viewer for tech conferences with agenda management",
+    "widget_test_num": 0,
+    "functional_test_num": 4
+}

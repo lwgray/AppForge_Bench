@@ -1,0 +1,40 @@
+[
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/title",
+            "text": "Self-check"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/title",
+            "text": "About"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.fabiszewski.ulogger",
+        "target": {
+            "resource-id": "net.fabiszewski.ulogger:id/about_button_ok",
+            "text": "OK"
+        }
+    }
+]

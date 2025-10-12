@@ -1,0 +1,24 @@
+[
+    {
+        "type": "click",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "org.woheller69.eggtimer:id/imageButton"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "text": "Smart EggTimer"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "org.woheller69.eggtimer:id/Instruction1",
+            "text": "Instructions"
+        }
+    }
+]

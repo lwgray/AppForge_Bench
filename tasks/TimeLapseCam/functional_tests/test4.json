@@ -1,0 +1,56 @@
+[
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Camera init delay"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "org.woheller69.TimeLapseCam:id/dialog_seekbar_preference_control"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Camera trigger delay"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "org.woheller69.TimeLapseCam:id/dialog_seekbar_preference_control"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

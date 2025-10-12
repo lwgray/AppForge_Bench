@@ -1,0 +1,58 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "text": "SKIP"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/logManualDose"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/entry_text"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "android:id/customPanel"
+        },
+        "message": "123"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "android:id/customPanel"
+        },
+        "message": "1"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "text": "35"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/material_timepicker_ok_button"
+        }
+    }
+]

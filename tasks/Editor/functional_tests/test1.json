@@ -1,0 +1,97 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/newFile"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/edit"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/vscroll"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/vscroll"
+        },
+        "message": "abc"
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/view"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/save"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "org.billthefarmer.editor:id/pathText"
+        },
+        "message": "a.txt"
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "SAVE"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "a.txt"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "Open recent"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Open recent"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "a.txt"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "type": "click",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "org.woheller69.eggtimer:id/spinnerSize"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "50g"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.eggtimer",
+        "target": {
+            "resource-id": "org.woheller69.eggtimer:id/controllerButton",
+            "text": "Start"
+        }
+    }
+]

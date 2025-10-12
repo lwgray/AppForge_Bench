@@ -1,0 +1,9 @@
+[
+    {
+        "type": "click",
+        "package": "ca.cmetcalfe.locationshare",
+        "target": {
+            "resource-id": "ca.cmetcalfe.locationshare:id/viewButton"
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/action_search"
+        }
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/search_src_text"
+        }
+    },
+    {
+        "type": "input",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/search_src_text"
+        },
+        "message": "apk"
+    },
+    {
+        "type": "click",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "content-desc": "Go"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/txtAppName",
+            "text": "Apk Extractor"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "axp.tool.apkextractor",
+        "target": {
+            "resource-id": "axp.tool.apkextractor:id/txtPackageName",
+            "text": "axp.tool.apkextractor"
+        }
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Images"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "io.github.doubi88.slideshowwallpaper:id/add_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "com.google.android.documentsui:id/icon_mime_lg"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Ordering"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Random"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Time between images"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "30 sec"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Display"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.doubi88.slideshowwallpaper",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Scroll with home screens"
+        }
+    }
+]

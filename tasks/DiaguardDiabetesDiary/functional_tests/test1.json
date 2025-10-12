@@ -1,0 +1,61 @@
+[
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/tag_input"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "text": "just woke up"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/note_input",
+            "text": "Note"
+        },
+        "message": "Took 6U rapid insulin"
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/alarm_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/key_right",
+            "text": "9"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/done_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    }
+]

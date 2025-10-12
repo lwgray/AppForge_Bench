@@ -1,0 +1,29 @@
+[
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "Home"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "content-desc": "More Options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.unitstool",
+        "target": {
+            "text": ".... Espa\u00f1ol"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "Hogar"
+        }
+    }
+]

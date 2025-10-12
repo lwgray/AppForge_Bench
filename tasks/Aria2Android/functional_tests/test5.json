@@ -1,0 +1,39 @@
+[
+    {
+        "type": "click",
+        "package": "com.gianlu.aria2android",
+        "target": {
+            "resource-id": "android:id/button3",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.gianlu.aria2android",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 150 800"
+    },
+    {
+        "type": "visible",
+        "package": "com.gianlu.aria2android",
+        "target": {
+            "resource-id": "com.gianlu.aria2android:id/mp_title",
+            "text": "Start service when the app opens"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.aria2android",
+        "target": {
+            "resource-id": "com.gianlu.aria2android:id/mp_title",
+            "text": "Start service when the app opens"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.gianlu.aria2android",
+        "target": {
+            "resource-id": "com.gianlu.aria2android:id/mp_summary",
+            "text": "The service will start when the app is opened."
+        }
+    }
+]

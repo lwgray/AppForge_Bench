@@ -1,0 +1,55 @@
+[
+    {
+        "type": "adb_command",
+        "package": "org.ostrya.presencepublisher",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 150 800"
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Quality of Service"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Quality of Service"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "QoS 0: at most once"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "QoS 1: at least once"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "QoS 2: exactly once (not supported by all brokers)"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "QoS 1: at least once"
+        }
+    }
+]

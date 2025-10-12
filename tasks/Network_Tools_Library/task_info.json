@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.stealthcotper.networktools",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+    ],
+    "high-description": "Network Tools Library - Network utilities",
+    "low-description": "Collection of networking tools like ping, traceroute, port scan",
+    "widget_test_num": 0,
+    "functional_test_num": 5
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "content-desc": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "text": "Default view"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "text": "Block schedule"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "text": "Show hidden items"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "text": "Enable notifications"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "text": "Enable notifications"
+        }
+    }
+]

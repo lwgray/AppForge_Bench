@@ -1,0 +1,75 @@
+[
+    {
+        "type": "adb_command",
+        "cmdline": "push ./files/shipin.mp4 /sdcard/Download/"
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 365 750 365 250 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Files"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "content-desc": "Show roots"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Downloads"
+        }
+    },
+    {
+        "type": "longclick",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "shipin.mp4"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "com.google.android.documentsui:id/action_menu_share"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "android",
+        "cmdline": "adb shell input touchscreen swipe 365 750 365 250 800"
+    },
+    {
+        "type": "adb_command",
+        "package": "android",
+        "cmdline": "adb shell input touchscreen swipe 365 750 365 250 800"
+    },
+    {
+        "type": "click",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text2",
+            "text": "on device"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "SAVE"
+        }
+    }
+]

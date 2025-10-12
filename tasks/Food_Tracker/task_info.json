@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "org.secuso.privacyfriendlyfoodtracker",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.POST_NOTIFICATIONS"
+    ],
+    "high-description": "Food Tracker - Privacy-friendly food tracking",
+    "low-description": "Privacy-focused food and nutrition tracking app for monitoring daily food intake",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

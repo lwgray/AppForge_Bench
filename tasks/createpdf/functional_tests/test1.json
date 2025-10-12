@@ -1,0 +1,97 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/btn_skip"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/option_name"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/design_menu_item_text"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/option_name",
+            "text": "Images to PDF"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/addImages",
+            "text": "SELECT IMAGES"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/check_view"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/button_apply",
+            "text": "Apply(1)"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/pdfCreate",
+            "text": "CREATE PDF"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/md_buttonDefaultPositive",
+            "text": "OK"
+        }
+    }
+]

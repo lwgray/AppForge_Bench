@@ -1,0 +1,28 @@
+[
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/filter"
+        },
+        "message": "Download"
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "Download",
+            "class": "android.widget.TextView"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": "Documents"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": "Android"
+        }
+    }
+]

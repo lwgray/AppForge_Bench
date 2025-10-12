@@ -1,0 +1,74 @@
+[
+    {
+        "type": "click",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Edit"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "USE THIS FOLDER"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "ALLOW"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Output Zip File"
+        }
+    },
+    {
+        "type": "input",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/edit"
+        },
+        "message": "kk"
+    },
+    {
+        "type": "click",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Long File: Min Text Len"
+        }
+    },
+    {
+        "type": "input",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/edit"
+        },
+        "message": "100"
+    },
+    {
+        "type": "click",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

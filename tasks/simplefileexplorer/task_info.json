@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.martinmimigames.simplefileexplorer",
+    "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 7
+}

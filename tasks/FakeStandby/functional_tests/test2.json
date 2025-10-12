@@ -1,0 +1,18 @@
+[
+    {
+        "type": "click",
+        "package": "android.jonas.fakestandby",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Start fake standby on boot"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android.jonas.fakestandby",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Invert color"
+        }
+    }
+]

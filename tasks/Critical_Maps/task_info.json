@@ -1,0 +1,19 @@
+{
+    "template": "empty_activity",
+    "package_name": "de.stephanlindauer.criticalmaps",
+    "permissions": [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.INTERNET",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.FOREGROUND_SERVICE",
+        "de.stephanlindauer.criticalmaps.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 6
+}

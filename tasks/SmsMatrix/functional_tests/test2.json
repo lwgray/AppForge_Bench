@@ -1,0 +1,158 @@
+[
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "eu.droogers.smsmatrix:id/editText_botUsername",
+            "text": "botSms"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "b"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "k"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "k"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "."
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "o"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "r"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "g"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "k"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "content-desc": "m"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "eu.droogers.smsmatrix:id/button_save",
+            "text": "SAVE"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 250 20 250 700 800"
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "android:id/app_name_text",
+            "text": "SmsMatrix"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "android:id/text",
+            "text": "SmsMatrix"
+        }
+    }
+]

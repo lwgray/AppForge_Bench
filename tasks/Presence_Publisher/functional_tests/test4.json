@@ -1,0 +1,25 @@
+[
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "text": "Schedule"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Charging publish period"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "org.ostrya.presencepublisher:id/seekbar_value",
+            "text": "0"
+        }
+    }
+]

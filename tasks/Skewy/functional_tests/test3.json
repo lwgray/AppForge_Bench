@@ -1,0 +1,95 @@
+[
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/title",
+            "text": "Use a speaker"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/edit_text_settings_detection_buffer",
+            "text": "15"
+        }
+    },
+    {
+        "type": "input",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/edit_text_settings_detection_buffer",
+            "text": "15"
+        },
+        "message": "10"
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/title",
+            "text": "Help"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/title",
+            "text": "Signal detection"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

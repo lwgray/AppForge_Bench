@@ -1,0 +1,85 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/btn_skip"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/option_name",
+            "text": "View Files"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/checkbox"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/fileName"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/md_title",
+            "text": "Open File"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/fileName"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/md_title",
+            "text": "Rename File"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "android:id/input"
+        },
+        "message": "moutain.pdf"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/md_buttonDefaultPositive"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/fileName"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/md_title"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "swati4star.createpdf:id/md_title",
+            "text": "Share File"
+        }
+    }
+]

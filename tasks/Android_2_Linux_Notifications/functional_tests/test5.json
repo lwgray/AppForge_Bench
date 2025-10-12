@@ -1,0 +1,24 @@
+[
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/navigation_bar_item_small_label_view",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/display_check_box"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "text": "Do not send notifications if the display is enabled."
+        }
+    }
+]

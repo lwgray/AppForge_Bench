@@ -1,0 +1,9 @@
+[
+    {
+        "type": "click",
+        "package": "com.martinmimigames.littlemusicplayer",
+        "target": {
+            "resource-id": "com.martinmimigames.littlemusicplayer:id/playlist_settings"
+        }
+    }
+]

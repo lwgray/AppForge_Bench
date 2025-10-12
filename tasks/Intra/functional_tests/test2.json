@@ -1,0 +1,50 @@
+[
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/intro_next"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/intro_next"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/intro_accept"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.vpndialogs",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "resource-id": "app.intra:id/dns_switch"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.intra",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "Current DNS server"
+        }
+    },
+    {
+        "type": "back",
+        "package": "app.intra"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "type": "click",
+        "package": "com.unitstool",
+        "target": {
+            "text": "Surface"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.unitstool",
+        "target": {
+            "resource-id": "RNE__Input__text-input"
+        },
+        "message": "100"
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "m\u00b2"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "1,000,000 cm\u00b2"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "1,076.4 ft\u00b2"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "0.01 ha"
+        }
+    }
+]

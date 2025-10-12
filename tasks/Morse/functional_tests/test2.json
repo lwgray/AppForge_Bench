@@ -1,0 +1,17 @@
+[
+    {
+        "type": "click",
+        "package": "rocks.poopjournal.morse",
+        "target": {
+            "resource-id": "rocks.poopjournal.morse:id/input"
+        }
+    },
+    {
+        "type": "input",
+        "package": "rocks.poopjournal.morse",
+        "target": {
+            "resource-id": "rocks.poopjournal.morse:id/input"
+        },
+        "message": "5"
+    }
+]

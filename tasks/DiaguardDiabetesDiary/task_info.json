@@ -1,0 +1,15 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.faltenreich.diaguard",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.VIBRATE",
+        "android.permission.POST_NOTIFICATIONS",
+        "com.faltenreich.diaguard.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+    ],
+    "high-description": "Diaguard Diabetes Diary - Diabetes management app",
+    "low-description": "App for tracking blood sugar levels and managing diabetes care",
+    "widget_test_num": 0,
+    "functional_test_num": 4
+}

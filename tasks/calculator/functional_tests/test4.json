@@ -1,0 +1,60 @@
+[
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "\u221a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "9"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "="
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "3",
+            "resource-id": "org.fossify.math:id/result"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "^"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "3"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "="
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "27",
+            "resource-id": "org.fossify.math:id/result"
+        }
+    }
+]

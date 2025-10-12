@@ -1,0 +1,117 @@
+[
+    {
+        "type": "adb_command",
+        "cmdline": "rm -r /storage/emulated/0/aaa"
+    },
+    {
+        "type": "adb_command",
+        "cmdline": "rm -r /storage/emulated/0/bbb"
+    },
+    {
+        "type": "restart"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_button"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_create_new_directory"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/new_directory_name"
+        },
+        "message": "aaa"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/new_directory_create"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "aaa"
+        }
+    },
+    {
+        "type": "longclick",
+        "target": {
+            "text": "aaa"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/single_select_rename"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/single_select_rename"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/new_name"
+        },
+        "message": "bbb"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/rename_rename"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": "aaa"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "bbb"
+        }
+    },
+    {
+        "type": "longclick",
+        "target": {
+            "text": "bbb"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/select_delete"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "text": "Delete"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": "aaa"
+        }
+    },
+    {
+        "type": "invisible",
+        "target": {
+            "text": "bbb"
+        }
+    }
+]

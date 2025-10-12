@@ -1,0 +1,39 @@
+[
+    {
+        "type": "click",
+        "package": "tech.bogomolov.incomingsmsgateway",
+        "target": {
+            "resource-id": "tech.bogomolov.incomingsmsgateway:id/btn_add"
+        }
+    },
+    {
+        "type": "click",
+        "package": "tech.bogomolov.incomingsmsgateway",
+        "target": {
+            "resource-id": "tech.bogomolov.incomingsmsgateway:id/input_phone"
+        }
+    },
+    {
+        "type": "input",
+        "package": "tech.bogomolov.incomingsmsgateway",
+        "target": {
+            "resource-id": "tech.bogomolov.incomingsmsgateway:id/input_phone"
+        },
+        "message": "1"
+    },
+    {
+        "type": "input",
+        "package": "tech.bogomolov.incomingsmsgateway",
+        "target": {
+            "resource-id": "tech.bogomolov.incomingsmsgateway:id/input_url"
+        },
+        "message": "https://example.com"
+    },
+    {
+        "type": "click",
+        "package": "tech.bogomolov.incomingsmsgateway",
+        "target": {
+            "resource-id": "android:id/button3"
+        }
+    }
+]

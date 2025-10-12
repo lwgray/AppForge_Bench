@@ -1,0 +1,50 @@
+[
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Medias to backup"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Pictures to upload"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/alertTitle",
+            "text": "Pictures to upload"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Newly taken only"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "All pictures of the device"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Newly taken only"
+        }
+    }
+]

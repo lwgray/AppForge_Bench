@@ -1,0 +1,64 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/detailTrainingView"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/expandableButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/addButton"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.health.openworkout:id/nameView"
+        },
+        "message": "expert"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/reset"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.health.openworkout:id/nameView"
+        },
+        "message": "expert"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/save"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/edit"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/optionView"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/icon"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "content-desc": "Open menu"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "Export data"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "text": "ToDo Data.csv"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "text": "SAVE"
+        }
+    }
+]

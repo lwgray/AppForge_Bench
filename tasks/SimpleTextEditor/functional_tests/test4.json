@@ -1,0 +1,47 @@
+[
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "resource-id": "com.maxistar.textpad:id/menu_item_share"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/content_preview_text",
+            "text": "a"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/chooser_copy_button",
+            "text": "Copy"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/chooser_nearby_button",
+            "text": "Nearby"
+        }
+    }
+]

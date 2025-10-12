@@ -1,0 +1,44 @@
+[
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "resource-id": "cz.martykan.forecastie:id/todayTemperature"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "TODAY"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "TOMORROW"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "LATER"
+        }
+    },
+    {
+        "type": "click",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "text": "LATER"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "cz.martykan.forecastie",
+        "target": {
+            "resource-id": "cz.martykan.forecastie:id/itemTemperature"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonStartStop",
+            "text": "START"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "net.basov.lws.fdroid",
+        "cmdline": "adb shell input touchscreen swipe 400 24 400 800 800"
+    },
+    {
+        "type": "click",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "android:id/action0",
+            "text": "Stop service"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "net.basov.lws.fdroid",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 24 800"
+    },
+    {
+        "type": "visible",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/buttonStartStop",
+            "text": "START"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "net.basov.lws.fdroid",
+        "target": {
+            "resource-id": "net.basov.lws.fdroid:id/address",
+            "text": "not running"
+        }
+    }
+]

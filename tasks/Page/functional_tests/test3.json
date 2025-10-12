@@ -1,0 +1,24 @@
+[
+    {
+        "type": "input",
+        "package": "com.page.bizzle",
+        "target": {
+            "resource-id": "android:id/content"
+        },
+        "message": "abc"
+    },
+    {
+        "type": "click",
+        "package": "com.page.bizzle",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.page.bizzle",
+        "target": {
+            "text": "Copy"
+        }
+    }
+]

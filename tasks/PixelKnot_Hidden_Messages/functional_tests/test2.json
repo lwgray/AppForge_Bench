@@ -1,0 +1,171 @@
+[
+    {
+        "type": "adb_command",
+        "cmdline": "push ./files/R.jpg /sdcard/Download/"
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/ivPhoto",
+            "index": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/tvAlbumName",
+            "text": "Other"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "content-desc": "Show roots"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Downloads"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "com.google.android.documentsui:id/sub_menu"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "text": "R.jpg"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "content-desc": "A"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "content-desc": "b"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "content-desc": "c"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "content-desc": "Done"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/btnSet",
+            "text": "SET"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/tvStatus",
+            "text": "Tap to send"
+        }
+    },
+    {
+        "type": "click",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/tvStatus",
+            "text": "Tap to send"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/textView2",
+            "text": "Share with"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/tvShare",
+            "text": "Bluetooth"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/tvShare",
+            "text": "Save to Drive"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "info.guardianproject.pixelknot",
+        "target": {
+            "resource-id": "info.guardianproject.pixelknot:id/tvShare",
+            "text": "Gmail"
+        }
+    }
+]

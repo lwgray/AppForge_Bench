@@ -1,0 +1,63 @@
+[
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/md_buttonDefaultPositive"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/design_menu_item_text",
+            "text": "Icons"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.FrameLayout",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/menu_search"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/inner_container"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/md_buttonDefaultPositive",
+            "text": "CLOSE"
+        }
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "template": "empty_activity",
+    "package_name": "hans.b.skewy1_0",
+    "permissions": [
+        "android.permission.INTERNET"
+    ],
+    "high-description": "Skewy - A puzzle game involving skewed or tilted blocks and shapes",
+    "low-description": "A challenging puzzle game where players must work with tilted and skewed geometric shapes",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

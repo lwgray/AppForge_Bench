@@ -1,0 +1,50 @@
+[
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "During Startup"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "During Startup"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "After Startup"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "After Startup"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "Connectivity changed"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.elsdoerfer.android.autostarts",
+        "target": {
+            "resource-id": "com.elsdoerfer.android.autostarts:id/title",
+            "text": "Connectivity changed"
+        }
+    }
+]

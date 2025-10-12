@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "package": "eu.berdosi.app.heartbeat",
+        "target": {
+            "resource-id": "eu.berdosi.app.heartbeat:id/scrollview_direction"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.berdosi.app.heartbeat",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.berdosi.app.heartbeat",
+        "target": {
+            "class": "android.widget.LinearLayout",
+            "index": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "eu.berdosi.app.heartbeat",
+        "target": {
+            "class": "android.widget.LinearLayout",
+            "index": "2"
+        }
+    }
+]

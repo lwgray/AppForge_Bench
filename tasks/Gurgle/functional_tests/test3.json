@@ -1,0 +1,31 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "org.billthefarmer.gurgle:id/A",
+            "text": "A"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "org.billthefarmer.gurgle:id/share"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "Image"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "Text"
+        }
+    }
+]

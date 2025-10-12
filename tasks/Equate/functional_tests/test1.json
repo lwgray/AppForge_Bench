@@ -1,0 +1,66 @@
+[
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "Currency"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button6",
+            "text": "USD/[1975]"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "1975"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button9",
+            "text": "\u279c\u00a0HKD"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button1",
+            "text": "USD"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button1",
+            "text": "USD"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button3",
+            "text": "\u279c\u00a0CAD"
+        }
+    }
+]

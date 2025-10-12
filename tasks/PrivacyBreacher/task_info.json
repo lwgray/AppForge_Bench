@@ -1,0 +1,11 @@
+{
+    "template": "empty_activity",
+    "package_name": "io.nandandesai.privacybreacher",
+    "permissions": [
+        "android.permission.FOREGROUND_SERVICE"
+    ],
+    "high-description": "PrivacyBreacher - Privacy vulnerability scanner",
+    "low-description": "Scans and demonstrates privacy vulnerabilities in Android applications",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

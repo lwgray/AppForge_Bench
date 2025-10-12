@@ -1,0 +1,47 @@
+[
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "text": "DNS"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/dns_enabled",
+            "text": "Custom DNS servers"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/floating_action_button"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/title_layout"
+        },
+        "message": "Google DNS"
+    },
+    {
+        "type": "input",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/location_layout"
+        },
+        "message": "8.8.8.8"
+    },
+    {
+        "type": "click",
+        "package": "org.jak_linux.dns66",
+        "target": {
+            "resource-id": "org.jak_linux.dns66:id/action_save"
+        }
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "com.android.permissioncontroller:id/permission_allow_button",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/poi_title",
+            "text": "Transportation"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "package": "com.cityzen.cityzen",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/poiDialogFavorite"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/poiDialogClose"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.cityzen.cityzen"
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/smallLabel",
+            "text": "Search"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.cityzen.cityzen"
+    },
+    {
+        "type": "click",
+        "package": "com.cityzen.cityzen",
+        "target": {
+            "resource-id": "com.cityzen.cityzen:id/smallLabel",
+            "text": "Favorites"
+        }
+    }
+]

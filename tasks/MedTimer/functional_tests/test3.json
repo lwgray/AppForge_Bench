@@ -1,0 +1,83 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/skip"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/logManualDose"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/entry_text"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "android:id/customPanel"
+        },
+        "message": "12"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "android:id/customPanel"
+        },
+        "message": "1"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/material_timepicker_ok_button"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/statisticsFragment"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/toolbar"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/submenuarrow"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.futsch1.medtimer:id/icon"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/content_preview_filename"
+        }
+    }
+]

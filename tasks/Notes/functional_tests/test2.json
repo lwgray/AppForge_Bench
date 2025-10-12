@@ -1,0 +1,80 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Add date"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Add media\u2026"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.google.android.documentsui"
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Edit styles\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "org.billthefarmer.notes:id/accept"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Edit script\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.notes",
+        "target": {
+            "resource-id": "org.billthefarmer.notes:id/accept"
+        }
+    }
+]

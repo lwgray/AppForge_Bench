@@ -1,0 +1,50 @@
+[
+    {
+        "type": "visible",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "eu.droogers.smsmatrix:id/textView_botUsername",
+            "text": "Bot Username"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "eu.droogers.smsmatrix:id/textView_botPassword",
+            "text": "Bot Password"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "eu.droogers.smsmatrix:id/textView_hsUrl",
+            "text": "Homeserver url"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "eu.droogers.smsmatrix:id/textView_username",
+            "text": "Your username"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "eu.droogers.smsmatrix:id/textView_devicename",
+            "text": "Devicename"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "eu.droogers.smsmatrix",
+        "target": {
+            "resource-id": "eu.droogers.smsmatrix:id/button_save",
+            "text": "SAVE"
+        }
+    }
+]

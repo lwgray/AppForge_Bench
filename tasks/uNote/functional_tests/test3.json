@@ -1,0 +1,45 @@
+[
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/action_settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Global"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Text Size"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Custom text size"
+        }
+    },
+    {
+        "type": "input",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "android:id/edit"
+        },
+        "message": "20"
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "OK"
+        }
+    }
+]

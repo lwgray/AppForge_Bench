@@ -1,0 +1,16 @@
+{
+    "template": "empty_activity",
+    "package_name": "org.secuso.privacyfriendlytodolist",
+    "permissions": [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.POST_NOTIFICATIONS",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "org.secuso.privacyfriendlytodolist.TODO_PERMISSION",
+        "org.secuso.privacyfriendlyproductivitytimer.TODO_RE_PERMISSION",
+        "org.secuso.privacyfriendlytodolist.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 5
+}

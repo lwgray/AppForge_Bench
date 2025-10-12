@@ -1,0 +1,15 @@
+# 忽略 .git 目录和 Git相关文件
+.git/
+.gitignore
+.gitmodules
+compiler/*
+fdroid-analysis/*
+fuzz_logs/*
+qwen3coder/*
+refine15-37-52-121/*
+screenshots/*
+!compiler/templates/
+!compiler/build.py
+!compiler/config.ini
+!compiler/create_template.py
+!compiler/output.json

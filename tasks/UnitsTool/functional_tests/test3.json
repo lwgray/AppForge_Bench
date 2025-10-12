@@ -1,0 +1,38 @@
+[
+    {
+        "type": "click",
+        "package": "com.unitstool",
+        "target": {
+            "text": "Temperature"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.unitstool",
+        "target": {
+            "resource-id": "RNE__Input__text-input"
+        },
+        "message": "40"
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "\u00b0C"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "104 \u00b0F"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.unitstool",
+        "target": {
+            "text": "313.15 K"
+        }
+    }
+]

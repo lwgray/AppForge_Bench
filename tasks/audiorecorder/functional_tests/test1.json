@@ -1,0 +1,45 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.github.axet.audiorecorder:id/fab"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.github.axet.audiorecorder:id/recording_done"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.github.axet.audiorecorder:id/recording_title"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.github.axet.audiorecorder:id/recording_player_edit"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.github.axet.audiorecorder:id/custom"
+        },
+        "message": "KK"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.github.axet.audiorecorder:id/recording_player_share"
+        }
+    }
+]

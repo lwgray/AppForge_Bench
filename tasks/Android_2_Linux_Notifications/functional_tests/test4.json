@@ -1,0 +1,52 @@
+[
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/navigation_bar_item_small_label_view",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "text": "A notification can be blocked for a certain duration if it exceeds a certain similarity with a previous one."
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "text": "Duration in Seconds"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "resource-id": "dev.patri9ck.a2ln:id/duration_seconds"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "content-desc": "5"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "content-desc": "Done"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dev.patri9ck.a2ln",
+        "target": {
+            "text": "5"
+        }
+    }
+]

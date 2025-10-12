@@ -1,0 +1,48 @@
+[
+    {
+        "type": "adb_command",
+        "cmdline": "push ./files/wz.png /sdcard/Download/"
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "resource-id": "io.github.subhamtyagi.ocr:id/btn_scan"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android",
+        "target": {
+            "text": "Photos"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.photos",
+        "target": {
+            "text": "Download"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.photos",
+        "target": {
+            "content-desc": "Photo1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "CROP"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "resource-id": "io.github.subhamtyagi.ocr:id/btn_copy"
+        }
+    }
+]

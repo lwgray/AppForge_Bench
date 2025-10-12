@@ -1,0 +1,24 @@
+[
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "resource-id": "de.markusfisch.android.wavelines:id/add_theme"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "resource-id": "de.markusfisch.android.wavelines:id/change_layout"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.markusfisch.android.wavelines",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "3 columns"
+        }
+    }
+]

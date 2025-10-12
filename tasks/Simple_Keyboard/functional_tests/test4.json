@@ -1,0 +1,26 @@
+[
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Preferences"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Show separate number row"
+        }
+    },
+    {
+        "type": "click",
+        "package": "rkr.simplekeyboard.inputmethod",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Show separate number row"
+        }
+    }
+]

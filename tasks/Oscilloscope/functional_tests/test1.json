@@ -1,0 +1,23 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "resource-id": "org.billthefarmer.scope:id/scope"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "resource-id": "org.billthefarmer.scope:id/single"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "resource-id": "org.billthefarmer.scope:id/bright"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "type": "click",
+        "package": "dnsfilter.android",
+        "target": {
+            "resource-id": "dnsfilter.android:id/remoteCtrlBtn"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "Remote control"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "Destination"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "Passphrase"
+        }
+    }
+]

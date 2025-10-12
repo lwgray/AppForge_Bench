@@ -1,0 +1,37 @@
+[
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/btn_skip"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "org.secuso.privacyfriendlyfoodtracker:id/fab"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "android:id/next"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "resource-id": "android:id/prev"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlyfoodtracker",
+        "target": {
+            "content-desc": "19 August 2025"
+        }
+    }
+]

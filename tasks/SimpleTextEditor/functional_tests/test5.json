@@ -1,0 +1,30 @@
+[
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "content-desc": "b"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "resource-id": "com.maxistar.textpad:id/action_edit"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.maxistar.textpad",
+        "target": {
+            "resource-id": "com.maxistar.textpad:id/menu_item_cut"
+        }
+    }
+]

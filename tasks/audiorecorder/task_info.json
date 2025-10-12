@@ -1,0 +1,13 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.github.axet.audiorecorder",
+    "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "high-description": "Audio Recorder - Record audio with various formats and quality settings",
+    "low-description": "A simple audio recording application that allows users to record and save audio files in different formats",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

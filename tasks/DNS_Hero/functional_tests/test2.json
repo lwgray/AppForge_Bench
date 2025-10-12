@@ -1,0 +1,39 @@
+[
+    {
+        "type": "input",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "resource-id": "com.gianlu.dnshero:id/loading_domain"
+        },
+        "message": "outlook.com"
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "resource-id": "com.gianlu.dnshero:id/text_input_end_icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "resource-id": "com.gianlu.dnshero:id/domain_favorite"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "class": "android.widget.RelativeLayout",
+            "index": "0"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/serverBtn"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "content-desc": "Show QR"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/qr_img"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.akansh.fileserversuit",
+        "target": {
+            "resource-id": "com.akansh.fileserversuit:id/url_share_btn"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "text": "Nearby"
+        }
+    }
+]

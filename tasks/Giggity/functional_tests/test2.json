@@ -1,0 +1,37 @@
+[
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "resource-id": "net.gaast.giggity:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "content-desc": "Show drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "resource-id": "net.gaast.giggity:id/now_next"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "content-desc": "Show drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "resource-id": "net.gaast.giggity:id/timetable"
+        }
+    }
+]

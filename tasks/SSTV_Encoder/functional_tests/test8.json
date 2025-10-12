@@ -1,0 +1,23 @@
+[
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Save as WAVE File"
+        }
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Save as WAVE File"
+        }
+    }
+]

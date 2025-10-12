@@ -1,0 +1,102 @@
+[
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/md_buttonDefaultPositive"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.donnnno.arcticons"
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/design_menu_item_text",
+            "text": "Wallpapers"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/image"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.donnnno.arcticons"
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/image"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/image"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/menu_save",
+            "index": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/menu_save",
+            "index": "1"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.donnnno.arcticons"
+    },
+    {
+        "type": "back",
+        "package": "com.donnnno.arcticons"
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/menu_save",
+            "index": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/menu_apply",
+            "index": "2"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/title",
+            "text": "Homescreen & Lockscreen"
+        }
+    }
+]

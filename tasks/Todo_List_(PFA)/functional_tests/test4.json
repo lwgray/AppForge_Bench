@@ -1,0 +1,23 @@
+[
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "content-desc": "Open menu"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.secuso.privacyfriendlytodolist",
+        "target": {
+            "text": "Share data"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "text": "Nearby"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "show hidden notes"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "show hidden notes"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "hide hidden notes"
+        }
+    }
+]

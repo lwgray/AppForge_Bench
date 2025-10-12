@@ -1,0 +1,49 @@
+[
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.git.amarradi.leafpad",
+        "cmdline": "adb shell input touchscreen swipe 400 1000 400 500 800"
+    },
+    {
+        "type": "visible",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "Keep screen on"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "Keep screen on"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "Yes"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.git.amarradi.leafpad",
+        "target": {
+            "text": "Prevent the screen from turning off while using Leafpad"
+        }
+    }
+]

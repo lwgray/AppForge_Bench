@@ -1,0 +1,15 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.ulicae.cinelog",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.ulicae.cinelog.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.google.android.diskusage",
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.QUERY_ALL_PACKAGES",
+        "android.permission.GET_PACKAGE_SIZE",
+        "android.permission.PACKAGE_USAGE_STATS"
+    ],
+    "high-description": "DiskUsage - Storage usage analyzer",
+    "low-description": "Visual storage usage analyzer that shows disk space usage in a treemap visualization",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "de.arnowelzel.android.periodical",
+    "permissions": [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "high-description": "Periodical - Period tracking calendar for women",
+    "low-description": "A simple and private period tracking application with calendar functionality and reminder features",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

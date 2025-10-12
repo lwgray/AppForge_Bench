@@ -1,0 +1,66 @@
+[
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "Modes"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Modes"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "PD 50"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "PD 90"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "PD 120"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "PD 160"
+        }
+    },
+    {
+        "type": "click",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "PD 160"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "om.sstvencoder",
+        "target": {
+            "text": "PD 160"
+        }
+    }
+]

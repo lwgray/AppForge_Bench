@@ -1,0 +1,28 @@
+[
+    {
+        "type": "click",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "Advanced settings"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "dnsfilter.android",
+        "cmdline": "adb shell input touchscreen swipe 400 1000 400 500 800"
+    },
+    {
+        "type": "visible",
+        "package": "dnsfilter.android",
+        "target": {
+            "text": "Prevent device sleep"
+        }
+    },
+    {
+        "type": "click",
+        "package": "dnsfilter.android",
+        "target": {
+            "resource-id": "dnsfilter.android:id/keepAwakeCheck"
+        }
+    }
+]

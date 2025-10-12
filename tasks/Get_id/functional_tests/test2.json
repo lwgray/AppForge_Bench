@@ -1,0 +1,34 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "com.android.permissioncontroller:id/continue_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "makeinfo.com.getid:id/help"
+        }
+    },
+    {
+        "type": "back",
+        "package": "makeinfo.com.getid"
+    },
+    {
+        "type": "click",
+        "package": "makeinfo.com.getid",
+        "target": {
+            "resource-id": "makeinfo.com.getid:id/rate"
+        }
+    }
+]

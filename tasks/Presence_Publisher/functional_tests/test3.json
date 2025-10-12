@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "text": "Schedule"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Publish period"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "The time between messages in minutes"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "org.ostrya.presencepublisher:id/seekbar_value"
+        }
+    }
+]

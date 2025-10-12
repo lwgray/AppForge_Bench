@@ -1,0 +1,70 @@
+[
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Recording Mode"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Normal Video (MP4)"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "org.woheller69.TimeLapseCam:id/action_start"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "org.woheller69.TimeLapseCam:id/action_stop"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Recording Mode"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Time Lapsed Video (MP4)"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "org.woheller69.TimeLapseCam:id/action_start"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "org.woheller69.TimeLapseCam:id/action_stop"
+        }
+    }
+]

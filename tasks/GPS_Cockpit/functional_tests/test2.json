@@ -1,0 +1,69 @@
+[
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/record",
+            "text": "Start"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/record",
+            "text": "Stop"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/content"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.gpscockpit",
+        "target": {
+            "resource-id": "org.woheller69.gpscockpit:id/title",
+            "text": "Compass: Show degrees"
+        }
+    }
+]

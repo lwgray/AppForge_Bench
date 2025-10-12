@@ -1,0 +1,13 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.futsch1.medtimer",
+    "permissions": [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.USE_EXACT_ALARM",
+        "android.permission.RECEIVE_BOOT_COMPLETED"
+    ],
+    "high-description": "MedTimer - Medicine reminder and history with full offline privacy",
+    "low-description": "A medication timer app that helps users track medicine schedules and history while maintaining privacy",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

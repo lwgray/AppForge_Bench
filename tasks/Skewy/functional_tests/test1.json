@@ -1,0 +1,39 @@
+[
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/switch_play"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/switch_recorder"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.permissioncontroller",
+        "target": {
+            "resource-id": "com.android.permissioncontroller:id/permission_allow_foreground_only_button",
+            "text": "While using the app"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "hans.b.skewy1_0:id/switch_shield"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hans.b.skewy1_0",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

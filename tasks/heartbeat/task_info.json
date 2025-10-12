@@ -1,0 +1,13 @@
+{
+    "template": "empty_activity",
+    "package_name": "eu.berdosi.app.heartbeat",
+    "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.WAKE_LOCK",
+        "android.permission.VIBRATE"
+    ],
+    "high-description": "Heartbeat - Measure heart rate using camera",
+    "low-description": "Uses phone camera and flash to estimate heart rate",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

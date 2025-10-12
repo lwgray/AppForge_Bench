@@ -1,0 +1,52 @@
+[
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "3"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "+"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "3"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "5"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "="
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.fossify.math",
+        "target": {
+            "resource-id": "org.fossify.math:id/result",
+            "text": "48"
+        }
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.physphil.android.unitconverterultimate",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 150 800"
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/design_menu_item_text",
+            "text": "Time"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_from",
+            "text": "From"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "text": "Week"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_unit_from",
+            "text": "Week"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_value_from",
+            "text": "1.0"
+        }
+    },
+        {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_to",
+            "text": "To"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "text": "Hour"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_text_unit_to",
+            "text": "Hour"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.physphil.android.unitconverterultimate",
+        "target": {
+            "resource-id": "com.physphil.android.unitconverterultimate:id/header_value_to",
+            "text": "168"
+        }
+    }
+]

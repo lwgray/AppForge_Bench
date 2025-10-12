@@ -1,0 +1,83 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.gero.newpass:id/login_tw_password"
+        },
+        "message": "123qwe"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/register_or_unlock_textView"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/button_Add"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": ""
+        },
+        "message": "kk"
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.gero.newpass:id/name_input",
+            "text": "Name"
+        },
+        "message": "KK"
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.gero.newpass:id/password_input",
+            "text": "Password"
+        },
+        "message": "1234qwer"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/textView2"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/textView2",
+            "text": "[add]"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/email_input"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.gero.newpass:id/email_input",
+            "text": "Email/Username"
+        },
+        "message": "123@qq.com"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/textView2"
+        }
+    }
+]

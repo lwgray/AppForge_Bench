@@ -1,0 +1,66 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Oscilloscope"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Spectrum"
+        }
+    },
+    {
+        "type": "back",
+        "package": "org.billthefarmer.scope"
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Left"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.scope",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Right"
+        }
+    }
+]

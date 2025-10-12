@@ -1,0 +1,22 @@
+[
+    {
+        "type": "click",
+        "package": "io.nandandesai.privacybreacher",
+        "target": {
+            "resource-id": "io.nandandesai.privacybreacher:id/physicalMonitorButton",
+            "text": "PHYSICAL ACTIVITY MONITOR"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.nandandesai.privacybreacher",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "back",
+        "package": "io.nandandesai.privacybreacher"
+    }
+]

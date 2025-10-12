@@ -1,0 +1,49 @@
+[
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Playback Frame Rate"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "15 fps"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Schedule Recording"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "content-desc": "07 August 2025"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.woheller69.TimeLapseCam",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    }
+]

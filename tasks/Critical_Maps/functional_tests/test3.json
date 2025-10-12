@@ -1,0 +1,39 @@
+[
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/understand_button",
+            "text": "ACCEPT"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "content-desc": "Open drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/design_menu_item_text",
+            "text": "Chat"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "text": "Chat"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/chat_send_button"
+        }
+    }
+]

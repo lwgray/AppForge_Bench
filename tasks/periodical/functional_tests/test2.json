@@ -1,0 +1,50 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "de.arnowelzel.android.periodical:id/cal03"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "de.arnowelzel.android.periodical:id/buttonprev"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "text": "Backup"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1"
+        }
+    }
+]

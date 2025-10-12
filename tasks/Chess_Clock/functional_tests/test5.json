@@ -1,0 +1,33 @@
+[
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/settingsBtn"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/nameTv",
+            "text": "1 min"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/text",
+            "text": "Start"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/clockTimeTv",
+            "text": "1:00"
+        }
+    }
+]

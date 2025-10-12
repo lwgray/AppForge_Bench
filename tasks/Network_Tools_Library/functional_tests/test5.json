@@ -1,0 +1,9 @@
+[
+    {
+        "type": "click",
+        "package": "com.stealthcotper.networktools",
+        "target": {
+            "resource-id": "com.stealthcotper.networktools:id/action_github"
+        }
+    }
+]

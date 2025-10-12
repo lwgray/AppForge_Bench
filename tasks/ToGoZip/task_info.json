@@ -1,0 +1,13 @@
+{
+    "template": "empty_activity",
+    "package_name": "de.k3b.android.toGoZip",
+    "permissions": [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.INTERNET"
+    ],
+    "high-description": "ToGoZip - A portable zip file creation and management tool",
+    "low-description": "A file compression utility that allows users to create and manage zip archives on their device",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

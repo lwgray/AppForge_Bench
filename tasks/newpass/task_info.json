@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.gero.newpass",
+    "permissions": [
+        "android.permission.USE_FINGERPRINT",
+        "android.permission.USE_BIOMETRIC"
+    ],
+    "high-description": "NewPass - Secure password manager with biometric authentication",
+    "low-description": "A secure password management application with biometric authentication and encryption features",
+    "widget_test_num": 0,
+    "functional_test_num": 4
+}

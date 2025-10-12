@@ -1,0 +1,77 @@
+[
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "hr.kravarscan.enchantedfortress:id/newGameButton"
+        }
+    },
+    {
+        "type": "input",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "hr.kravarscan.enchantedfortress:id/nameInput"
+        },
+        "message": "kk"
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "hr.kravarscan.enchantedfortress:id/difficultySelection"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "text": "Easy"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "hr.kravarscan.enchantedfortress:id/startButton"
+        }
+    },
+    {
+        "type": "back",
+        "package": "hr.kravarscan.enchantedfortress"
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "hr.kravarscan.enchantedfortress:id/continueButton"
+        }
+    },
+    {
+        "type": "back",
+        "package": "hr.kravarscan.enchantedfortress"
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "hr.kravarscan.enchantedfortress:id/scoresButton",
+            "text": "HALL OF FAME"
+        }
+    },
+    {
+        "type": "back",
+        "package": "hr.kravarscan.enchantedfortress"
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "hr.kravarscan.enchantedfortress:id/helpButton",
+            "text": "STORY & HELP"
+        }
+    },
+    {
+        "type": "back",
+        "package": "hr.kravarscan.enchantedfortress"
+    }
+]

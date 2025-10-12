@@ -1,0 +1,17 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.diskusage",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Storage card"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.diskusage",
+        "target": {
+            "resource-id": "android:id/content"
+        }
+    }
+]

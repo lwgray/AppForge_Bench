@@ -1,0 +1,20 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "text": "Android"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "data"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "text": "media"
+        }
+    }
+]

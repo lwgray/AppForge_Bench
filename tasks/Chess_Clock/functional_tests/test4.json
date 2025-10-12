@@ -1,0 +1,23 @@
+[
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/playerTwoClockContainer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/playerOneClockContainer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/playPauseBtn"
+        }
+    }
+]

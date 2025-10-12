@@ -1,0 +1,65 @@
+[
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "content-desc": "Open navigation drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/design_menu_item_text",
+            "text": "Servers"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/fab_add_server"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Server Name"
+        },
+        "message": "google"
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Server Address"
+        },
+        "message": "google.com"
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.itxtech.daedalus",
+        "target": {
+            "resource-id": "org.itxtech.daedalus:id/action_apply"
+        }
+    }
+]

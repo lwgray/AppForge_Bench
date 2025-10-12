@@ -1,0 +1,50 @@
+[
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Over Wi-Fi only"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Backup"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Over Wi-Fi only"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Over Wi-Fi or mobile network"
+        }
+    },
+    {
+        "type": "click",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Over Wi-Fi or mobile network"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "fr.s13d.photobackup",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Over Wi-Fi or mobile network"
+        }
+    }
+]

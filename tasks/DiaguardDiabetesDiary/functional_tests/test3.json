@@ -1,0 +1,90 @@
+[
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/tag_input"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/tag_name",
+            "text": "happy"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/note_input"
+        },
+        "message": "sandwich"
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/alarm_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "text": "5"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/fab_primary"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "content-desc": "Open Navigator"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/design_menu_item_text",
+            "text": "Timeline"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "content-desc": "Open Navigator"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.faltenreich.diaguard",
+        "target": {
+            "resource-id": "com.faltenreich.diaguard:id/design_menu_item_text",
+            "text": "Statistics"
+        }
+    }
+]

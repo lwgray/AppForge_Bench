@@ -1,0 +1,24 @@
+[
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/playerTwoClockContainer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/playerOneClockContainer"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.chess.clock",
+        "target": {
+            "resource-id": "com.chess.clock:id/movesTv",
+            "text": "Moves: 1"
+        }
+    }
+]

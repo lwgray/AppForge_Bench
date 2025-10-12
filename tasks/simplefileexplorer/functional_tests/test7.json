@@ -1,0 +1,20 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_button"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_toggle_theme"
+        }
+    },
+    {
+        "type": "visible",
+        "target": {
+            "resource-id": "com.martinmimigames.simplefileexplorer:id/menu_create_new_directory"
+        }
+    }
+]

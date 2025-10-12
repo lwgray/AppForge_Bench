@@ -1,0 +1,55 @@
+[
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/understand_button",
+            "text": "ACCEPT"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "content-desc": "Open drawer"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/design_menu_item_text",
+            "text": "Settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "text": "Screen settings"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/settings_keep_screen_on_title",
+            "text": "Keep screen on"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/settings_keep_screen_on_checkbox"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "de.stephanlindauer.criticalmaps",
+        "target": {
+            "resource-id": "de.stephanlindauer.criticalmaps:id/settings_keep_screen_on_summary",
+            "text": "Prevent the display from turning off automatically while the app is open"
+        }
+    }
+]

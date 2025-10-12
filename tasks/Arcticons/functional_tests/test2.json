@@ -1,0 +1,88 @@
+[
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/md_buttonDefaultPositive"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/design_menu_item_text",
+            "text": "Icons"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.google.android.apps.nexuslauncher"
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.FrameLayout",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/bookmark_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/md_buttonDefaultPositive",
+            "text": "CLOSE"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.ImageButton",
+            "index": "0"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.donnnno.arcticons"
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "class": "android.widget.LinearLayout",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.donnnno.arcticons",
+        "target": {
+            "resource-id": "com.donnnno.arcticons:id/md_buttonDefaultPositive",
+            "text": "CLOSE"
+        }
+    }
+]

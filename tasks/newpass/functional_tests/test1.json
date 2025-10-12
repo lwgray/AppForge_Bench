@@ -1,0 +1,22 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "CONTINUE"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.gero.newpass:id/login_tw_password"
+        },
+        "message": "123"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.gero.newpass:id/register_or_unlock_textView"
+        }
+    }
+]

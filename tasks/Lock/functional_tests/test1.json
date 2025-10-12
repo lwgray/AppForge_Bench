@@ -1,0 +1,61 @@
+[
+    {
+        "type": "click",
+        "package": "name.seguri.android.lock",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.settings:id/app_permission_item"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "android:id/switch_widget"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "resource-id": "com.android.settings:id/permission_enable_allow_button",
+            "text": "Allow"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.settings",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "name.seguri.android.lock",
+        "target": {
+            "resource-id": "android:id/content"
+        }
+    },
+    {
+        "type": "invisible",
+        "package": "name.seguri.android.lock",
+        "target": {
+            "content-desc": "Chrome",
+            "text": "Chrome"
+        }
+    }
+]

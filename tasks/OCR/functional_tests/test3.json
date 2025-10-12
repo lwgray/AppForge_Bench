@@ -1,0 +1,55 @@
+[
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "resource-id": "io.github.subhamtyagi.ocr:id/action_settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Select languages for Tesseract"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Afrikaans"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Akkadian"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "OK"
+        }
+    },
+    {
+        "type": "back",
+        "package": "io.github.subhamtyagi.ocr"
+    },
+    {
+        "type": "click",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Yes"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "io.github.subhamtyagi.ocr",
+        "target": {
+            "text": "Akkadian, Afrikaans"
+        }
+    }
+]

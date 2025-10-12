@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "package": "ch.blinkenlights.android.vanilla"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.RelativeLayout"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.RelativeLayout"
+        }
+    }
+]

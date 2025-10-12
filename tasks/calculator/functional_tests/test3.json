@@ -1,0 +1,38 @@
+[
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "8"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "\u00f7"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "2"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.fossify.math",
+        "target": {
+            "text": "="
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.fossify.math",
+        "target": {
+            "resource-id": "org.fossify.math:id/result",
+            "text": "4"
+        }
+    }
+]

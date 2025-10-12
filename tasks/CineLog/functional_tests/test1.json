@@ -1,0 +1,67 @@
+[
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/fab"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/kino_search"
+        },
+        "message": "The Shawshank Redemption"
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/kino_search_add_from_scratch"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "5"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/kino_review_date_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "text": "OK"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/kino_review_text"
+        },
+        "message": "nice"
+    },
+    {
+        "type": "click",
+        "package": "com.ulicae.cinelog",
+        "target": {
+            "resource-id": "com.ulicae.cinelog:id/fab"
+        }
+    }
+]

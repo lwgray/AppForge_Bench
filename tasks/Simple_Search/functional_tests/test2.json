@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "resource-id": "de.tobiasbielefeld.searchbar:id/editTextSearch",
+            "text": "Search for\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "content-desc": "k"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.tobiasbielefeld.searchbar",
+        "target": {
+            "content-desc": "Search"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.chrome:id/url_bar",
+            "text": "duckduckgo.com/?q=k"
+        }
+    }
+]

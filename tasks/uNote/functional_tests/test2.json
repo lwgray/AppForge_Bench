@@ -1,0 +1,34 @@
+[
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/action_settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Global"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Light theme"
+        }
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Light theme"
+        }
+    },
+    {
+        "type": "back",
+        "package": "app.varlorg.unote"
+    }
+]

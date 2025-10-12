@@ -1,0 +1,25 @@
+description: An app for converting various units of measurement, including distance, weight, temperature, liquid volume, surface area, and volume. The app also allows users to change the language of the interface and modify settings such as enabling or disabling dark mode.
+
+feature 1: Convert distance measurements.
+sub-feature 1-1: When the user clicks on the "Distance" option, they are directed to an input field where they can enter a value to convert. After entering "1000" into the input field, the APP displays the converted values in centimeters (cm), millimeters (mm), meters (m), and kilometers (km). Specifically, the APP shows "10,000 mm," "10 m," and "0.01 km," confirming that the input value of 1000 has been correctly converted into these different units of distance.
+
+feature 2: Convert weight units.
+sub-feature 2-1: When the user clicks on the "Weight" option, they are directed to a section where they can input a value for conversion. Upon entering "10000" into the input field, the application displays the equivalent weights in grams (g), milligrams (mg), kilograms (kg), and tons (t). The results include "10,000,000 mg," "10 kg," and "0.01 t," ensuring that the user can easily see the conversions across different units of measurement.
+
+feature 3: Convert temperature units.
+sub-feature 3-1: When the user selects the "Temperature" option, they are directed to a temperature conversion interface. The user can then input a value, such as "40," into the text input field. After entering the value, the APP displays the converted temperatures in Celsius (°C), Fahrenheit (°F), and Kelvin (K). The original input value of "40 °C" is shown, and the corresponding values in Fahrenheit and Kelvin, "104 °F" and "313.15 K" respectively, are also displayed, facilitating quick and accurate conversions.
+
+feature 4: Convert liquid volume units.
+sub-feature 4-1: When the user clicks on the "Liquid" option, they are directed to a section where they can input a value for conversion. After entering "1000" into the input field, the application displays the converted values in liters (l), milliliters (ml), and centiliters (cl). The first visible result shows "l," followed by "1,000,000 ml" and "100,000 cl," confirming the successful conversion of the input value into different units of liquid volume.
+
+feature 5: Convert surface area units.
+sub-feature 5-1: When the user clicks on the "Surface" option, they are directed to an input field where they can enter a value for conversion. In this case, the user inputs "100." Upon entering the value, the APP displays the result in square meters (m²), square centimeters (cm²), square feet (ft²), and hectares (ha). The results include "1,000,000 cm²," "1,076.4 ft²," and "0.01 ha," confirming that the APP successfully converts the input value into the corresponding surface area units.
+
+feature 6: Convert volume units.
+sub-feature 6-1: When the user clicks on the "Volume" option, they are directed to a volume conversion interface. The user then inputs a value of 1000 into the text input field. After entering the value, the app displays the converted values in cubic meters (m³), cubic centimeters (cm³), cubic inches (in³), and cubic feet (ft³). The results include "1,000,000,000 cm³," "61,023,744.1 in³," and "35,314.67 ft³," ensuring that the user can easily convert and view volume measurements in multiple units.
+
+feature 7: Change the language of the interface.
+sub-feature 7-1: When the APP is opened, the "Home" screen is visible. Upon clicking the "More Options" button, the user can select the ".... Español" option to change the language to Spanish. After selecting this option, the "Home" screen updates to display "Hogar," confirming that the language has successfully been changed to Spanish.
+
+feature 8: Modify settings such as enabling or disabling dark mode.
+sub-feature 8-1: When the user clicks on the "More Options" button, a menu with additional settings options appears. From this menu, the user can click on the "Dark mode" option to toggle the dark mode setting, changing the appearance of the app to a darker theme, enhancing visibility in low-light conditions.

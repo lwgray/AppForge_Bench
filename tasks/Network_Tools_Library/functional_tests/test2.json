@@ -1,0 +1,16 @@
+[
+    {
+        "type": "click",
+        "package": "com.stealthcotper.networktools",
+        "target": {
+            "resource-id": "com.stealthcotper.networktools:id/subnetDevicesButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.stealthcotper.networktools",
+        "target": {
+            "resource-id": "com.stealthcotper.networktools:id/resultText"
+        }
+    }
+]

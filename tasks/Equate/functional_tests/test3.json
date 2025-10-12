@@ -1,0 +1,58 @@
+[
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "Length"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button10",
+            "text": "MORE\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Nanometers"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "Weight"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "com.llamacorp.equate:id/convert_button10",
+            "text": "MORE\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.llamacorp.equate",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Grains"
+        }
+    }
+]

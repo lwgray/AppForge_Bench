@@ -1,0 +1,42 @@
+[
+    {
+        "type": "click",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "Edit"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "USE THIS FOLDER"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "ALLOW"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Debug Mode"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.k3b.android.toGoZip",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Log full source file paths of added files."
+        }
+    }
+]

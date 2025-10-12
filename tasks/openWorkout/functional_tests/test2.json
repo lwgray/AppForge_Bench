@@ -1,0 +1,33 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/detailTrainingView"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/edit"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/editView"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "com.health.openworkout:id/nameView"
+        },
+        "message": "KK"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "com.health.openworkout:id/save"
+        }
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.editor",
+        "target": {
+            "text": "View markdown\u2026"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Open with"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Editor"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Chrome"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "HTML Viewer"
+        }
+    }
+]

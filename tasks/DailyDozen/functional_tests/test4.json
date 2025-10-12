@@ -1,0 +1,43 @@
+[
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/title",
+            "text": "Daily Reminder Settings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "text": "Enable Daily Reminder"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/add_reminder_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "back",
+        "package": "org.nutritionfacts.dailydozen"
+    }
+]

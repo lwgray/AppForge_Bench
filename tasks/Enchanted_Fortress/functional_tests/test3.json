@@ -1,0 +1,42 @@
+[
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "hr.kravarscan.enchantedfortress:id/settingsButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "text": "Day/night mode"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "text": "Day"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "text": "Reset hall of fame"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hr.kravarscan.enchantedfortress",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "YES"
+        }
+    },
+    {
+        "type": "back",
+        "package": "hr.kravarscan.enchantedfortress"
+    }
+]

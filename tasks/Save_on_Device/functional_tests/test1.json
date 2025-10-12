@@ -1,0 +1,191 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "text": "Chrome"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.chrome:id/search_box"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "b"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "a"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "i"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "d"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "u"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "."
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "c"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "o"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "m"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "index-kw"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "Y"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "i"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "n"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "y"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "u"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "content-desc": "e"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.google.android.inputmethod.latin:id/key_pos_ime_action"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.chrome:id/search_result_item"
+        }
+    },
+    {
+        "type": "longclick",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "leftContainer"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.android.chrome",
+        "target": {
+            "text": "Share link"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "text": "Share link"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.android.chrome",
+        "cmdline": "adb shell input touchscreen swipe 700 800 200 800 800"
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.chrome:id/text",
+            "text": "on device"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "SAVE"
+        }
+    }
+]

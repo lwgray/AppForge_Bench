@@ -1,0 +1,14 @@
+{
+    "template": "empty_activity",
+    "package_name": "com.elsdoerfer.android.autostarts",
+    "permissions": [
+        "android.permission.WRITE_SETTINGS",
+        "android.permission.WRITE_SECURE_SETTINGS",
+        "android.permission.CHANGE_COMPONENT_ENABLED_STATE",
+        "android.permission.ACCESS_SUPERUSER"
+    ],
+    "high-description": "Autostarts - App autostart blocker",
+    "low-description": "Prevents apps from automatically starting and manages startup processes",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

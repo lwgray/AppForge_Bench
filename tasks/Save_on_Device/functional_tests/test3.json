@@ -1,0 +1,53 @@
+[
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "text": "Chrome"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.chrome:id/tile_view_icon_background"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.chrome:id/menu_button_wrapper"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.android.chrome",
+        "target": {
+            "text": "Share\u2026"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.chrome",
+        "target": {
+            "resource-id": "com.android.chrome:id/button"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "SAVE"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "SAVE"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "template": "empty_activity",
+    "package_name": "swati4star.createpdf",
+    "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.CAMERA",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.REORDER_TASKS",
+        "swati4star.createpdf.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+    ],
+    "high-description": "Create PDF - Convert images and documents to PDF format",
+    "low-description": "An application for creating PDF files from images, documents, and other sources with various formatting options",
+    "widget_test_num": 0,
+    "functional_test_num": 2
+}

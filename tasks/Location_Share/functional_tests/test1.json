@@ -1,0 +1,20 @@
+[
+    {
+        "type": "click",
+        "package": "ca.cmetcalfe.locationshare",
+        "target": {
+            "resource-id": "ca.cmetcalfe.locationshare:id/shareButton"
+        }
+    },
+    {
+        "type": "back",
+        "package": "ca.cmetcalfe.locationshare"
+    },
+    {
+        "type": "click",
+        "package": "ca.cmetcalfe.locationshare",
+        "target": {
+            "resource-id": "ca.cmetcalfe.locationshare:id/copyButton"
+        }
+    }
+]

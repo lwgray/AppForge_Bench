@@ -1,0 +1,81 @@
+[
+    {
+        "type": "adb_command",
+        "cmdline": "push ./files/shipin.mp4 /sdcard/Download/"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "com.android.systemui:id/white_cutout"
+        }
+    },
+    {
+        "type": "adb_command",
+        "package": "com.google.android.apps.nexuslauncher",
+        "cmdline": "adb shell input touchscreen swipe 400 700 400 200 800"
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.apps.nexuslauncher",
+        "target": {
+            "resource-id": "com.google.android.apps.nexuslauncher:id/icon",
+            "text": "Files"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "content-desc": "Show roots"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Downloads"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.google.android.documentsui",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "shipin.mp4"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Open with"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Tiny Music Player"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Tiny Music Player"
+        }
+    },
+    {
+        "type": "click",
+        "package": "android",
+        "target": {
+            "resource-id": "android:id/button_once",
+            "text": "Just once"
+        }
+    }
+]

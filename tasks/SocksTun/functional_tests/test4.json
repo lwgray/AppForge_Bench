@@ -1,0 +1,35 @@
+[
+    {
+        "type": "click",
+        "package": "com.android.vpndialogs",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hev.sockstun",
+        "target": {
+            "resource-id": "hev.sockstun:id/global"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hev.sockstun",
+        "target": {
+            "resource-id": "hev.sockstun:id/global"
+        }
+    },
+    {
+        "type": "click",
+        "package": "hev.sockstun",
+        "target": {
+            "resource-id": "hev.sockstun:id/apps"
+        }
+    },
+    {
+        "type": "back",
+        "package": "hev.sockstun"
+    }
+]

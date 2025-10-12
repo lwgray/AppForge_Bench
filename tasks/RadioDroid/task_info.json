@@ -1,0 +1,24 @@
+{
+    "template": "empty_activity",
+    "package_name": "net.programmierecke.radiodroid2",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        "android.permission.USE_EXACT_ALARM",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.BLUETOOTH",
+        "android.permission.POST_NOTIFICATIONS",
+        "com.android.providers.tv.permission.WRITE_EPG_DATA",
+        "com.android.providers.tv.permission.READ_EPG_DATA",
+        "android.permission.READ_EXTERNAL_STORAGE"
+    ],
+    "high-description": "",
+    "low-description": "",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

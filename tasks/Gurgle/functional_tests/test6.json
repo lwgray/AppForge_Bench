@@ -1,0 +1,37 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "content-desc": "More options"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "Language"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "English"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "Italian"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "French"
+        }
+    }
+]

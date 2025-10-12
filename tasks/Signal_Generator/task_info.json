@@ -1,0 +1,12 @@
+{
+    "template": "empty_activity",
+    "package_name": "org.billthefarmer.siggen",
+    "permissions": [
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.RECORD_AUDIO"
+    ],
+    "high-description": "Signal Generator - Audio signal generator",
+    "low-description": "Generates audio tones/noise for testing and measurement",
+    "widget_test_num": 0,
+    "functional_test_num": 4
+}

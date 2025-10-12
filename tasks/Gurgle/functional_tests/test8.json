@@ -1,0 +1,33 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "org.billthefarmer.gurgle:id/B",
+            "text": "B"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "B",
+            "index": "0"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "resource-id": "org.billthefarmer.gurgle:id/refresh"
+        }
+    },
+    {
+        "type": "invisible",
+        "package": "org.billthefarmer.gurgle",
+        "target": {
+            "text": "B",
+            "index": "0"
+        }
+    }
+]

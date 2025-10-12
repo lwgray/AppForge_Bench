@@ -1,0 +1,33 @@
+[
+    {
+        "type": "input",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "resource-id": "com.gianlu.dnshero:id/loading_domain"
+        },
+        "message": "google.com"
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "resource-id": "com.gianlu.dnshero:id/text_input_end_icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "DIAGNOSTIC"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.gianlu.dnshero",
+        "target": {
+            "class": "android.widget.TextView",
+            "text": "ROOT NAMESERVER"
+        }
+    }
+]

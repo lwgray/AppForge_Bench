@@ -1,0 +1,46 @@
+[
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/BHint",
+            "text": "ALRIGHT"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/LButtonMenu"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "text": "Help"
+        }
+    },
+    {
+        "type": "back",
+        "package": "org.anothermonitor"
+    },
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "resource-id": "org.anothermonitor:id/LButtonMenu"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.anothermonitor",
+        "target": {
+            "text": "About"
+        }
+    },
+    {
+        "type": "back",
+        "package": "org.anothermonitor"
+    }
+]

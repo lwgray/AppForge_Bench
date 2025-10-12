@@ -1,0 +1,38 @@
+[
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "resource-id": "net.gaast.giggity:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "resource-id": "net.gaast.giggity:id/search"
+        }
+    },
+    {
+        "type": "input",
+        "package": "net.gaast.giggity",
+        "target": {
+            "text": "Type your search query"
+        },
+        "message": "a"
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "resource-id": "net.gaast.giggity:id/title"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.gaast.giggity",
+        "target": {
+            "text": "Remind me"
+        }
+    }
+]

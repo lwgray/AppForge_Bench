@@ -1,0 +1,93 @@
+[
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/food_checkboxes"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "class": "android.widget.CheckBox",
+            "index": "1"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/food_history"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/next"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/previous"
+        }
+    },
+    {
+        "type": "back",
+        "package": "org.nutritionfacts.dailydozen"
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/date_servings"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/time_range_selector_selected_year"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/time_range_selector_selected_month"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/time_scale_spinner"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Month"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "org.nutritionfacts.dailydozen:id/time_scale_spinner"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.nutritionfacts.dailydozen",
+        "target": {
+            "resource-id": "android:id/text1",
+            "text": "Year"
+        }
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "Generate"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "Convert text into a QR-Code"
+        }
+    },
+    {
+        "type": "input",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/txtQR"
+        },
+        "message": "Hello"
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/btnGenerateText",
+            "text": "GENERATE"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/btnSave"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "Create a QR-Code in the format of a geo location"
+        }
+    },
+    {
+        "type": "input",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/tfLatitude"
+        },
+        "message": "43.73"
+    },
+    {
+        "type": "input",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/tfLongtitude"
+        },
+        "message": "10.73"
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "GENERATE"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/btnSave"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "content-desc": "Navigate up"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "Create different kinds of Barcodes"
+        }
+    },
+    {
+        "type": "input",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/tfBarcode"
+        },
+        "message": "Hello"
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/btnGenerateBarcode"
+        }
+    },
+    {
+        "type": "input",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/tfBarcode"
+        },
+        "message": "1"
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "resource-id": "de.t_dankworth.secscanqr:id/btnGenerateBarcode"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "SAVE"
+        }
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "SHARE"
+        }
+    },
+    {
+        "type": "back",
+        "package": "android"
+    },
+    {
+        "type": "back",
+        "package": "de.t_dankworth.secscanqr"
+    },
+    {
+        "type": "back",
+        "package": "de.t_dankworth.secscanqr"
+    },
+    {
+        "type": "back",
+        "package": "de.t_dankworth.secscanqr"
+    },
+    {
+        "type": "click",
+        "package": "de.t_dankworth.secscanqr",
+        "target": {
+            "text": "History"
+        }
+    }
+]

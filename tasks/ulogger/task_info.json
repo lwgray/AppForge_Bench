@@ -1,0 +1,19 @@
+{
+    "template": "empty_activity",
+    "package_name": "net.fabiszewski.ulogger",
+    "permissions": [
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_BACKGROUND_LOCATION",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK",
+        "android.permission.FOREGROUND_SERVICE",
+        "android.permission.POST_NOTIFICATIONS"
+    ],
+    "high-description": "ulogger - GPS location tracker",
+    "low-description": "Real-time GPS location tracking and logging with web interface support",
+    "widget_test_num": 0,
+    "functional_test_num": 4
+}

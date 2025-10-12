@@ -1,0 +1,63 @@
+[
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/activity_main_firewall_icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/yesButton",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.android.vpndialogs",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/activity_main_firewall_icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Disable Firewall"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/yesButton",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/activity_main_row_app_name",
+            "text": "Android Setup"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/activity_main_row_fwstate_icon"
+        }
+    }
+]

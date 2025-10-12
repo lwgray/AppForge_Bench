@@ -1,0 +1,27 @@
+[
+    {
+        "type": "click",
+        "target": {
+            "class": "android.widget.ImageButton"
+        }
+    },
+    {
+        "type": "input",
+        "target": {
+            "resource-id": "android:id/search_src_text"
+        },
+        "message": "closer"
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "android:id/search_mag_icon"
+        }
+    },
+    {
+        "type": "click",
+        "target": {
+            "resource-id": "ch.blinkenlights.android.vanilla:id/text"
+        }
+    }
+]

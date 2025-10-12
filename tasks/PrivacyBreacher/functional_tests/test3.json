@@ -1,0 +1,27 @@
+[
+    {
+        "type": "click",
+        "package": "io.nandandesai.privacybreacher",
+        "target": {
+            "resource-id": "io.nandandesai.privacybreacher:id/phoneInfoButton"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.nandandesai.privacybreacher",
+        "target": {
+            "text": "Product"
+        }
+    },
+    {
+        "type": "click",
+        "package": "io.nandandesai.privacybreacher",
+        "target": {
+            "text": "Model"
+        }
+    },
+    {
+        "type": "back",
+        "package": "io.nandandesai.privacybreacher"
+    }
+]

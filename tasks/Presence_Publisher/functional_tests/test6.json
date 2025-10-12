@@ -1,0 +1,32 @@
+[
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "text": "Conditions"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Send without Wi-Fi"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "org.ostrya.presencepublisher:id/switchWidget"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Send messages via mobile network if necessary"
+        }
+    }
+]

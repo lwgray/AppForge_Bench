@@ -1,0 +1,20 @@
+[
+    {
+        "type": "click",
+        "package": "com.martinmimigames.littlemusicplayer",
+        "target": {
+            "resource-id": "com.martinmimigames.littlemusicplayer:id/file_opener"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.google.android.documentsui"
+    },
+    {
+        "type": "click",
+        "package": "com.martinmimigames.littlemusicplayer",
+        "target": {
+            "resource-id": "com.martinmimigames.littlemusicplayer:id/folder_opener"
+        }
+    }
+]

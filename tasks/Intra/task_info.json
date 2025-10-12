@@ -1,0 +1,16 @@
+{
+    "template": "empty_activity",
+    "package_name": "app.intra",
+    "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.ACCESS_WIFI_STATE",
+        "android.permission.CHANGE_WIFI_STATE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK"
+    ],
+    "high-description": "Intra - DNS over HTTPS",
+    "low-description": "A DNS over HTTPS application for secure internet browsing",
+    "widget_test_num": 0,
+    "functional_test_num": 3
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/activity_main_menu_icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Refresh Apps"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/activity_main_menu_icon"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Firewall on Boot"
+        }
+    },
+    {
+        "type": "click",
+        "package": "net.stargw.fok",
+        "target": {
+            "resource-id": "net.stargw.fok:id/infoButton",
+            "text": "OK"
+        }
+    }
+]

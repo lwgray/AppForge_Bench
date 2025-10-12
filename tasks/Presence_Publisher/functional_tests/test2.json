@@ -1,0 +1,31 @@
+[
+    {
+        "type": "adb_command",
+        "package": "org.ostrya.presencepublisher",
+        "cmdline": "adb shell input touchscreen swipe 400 800 400 150 800"
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Retain flag"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/title",
+            "text": "Retain flag"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "org.ostrya.presencepublisher",
+        "target": {
+            "resource-id": "android:id/summary",
+            "text": "Should the messages be retained in the broker after disconnect?"
+        }
+    }
+]

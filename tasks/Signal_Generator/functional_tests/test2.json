@@ -1,0 +1,33 @@
+[
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/exact"
+        }
+    },
+    {
+        "type": "input",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/text",
+            "text": "Enter frequency"
+        },
+        "message": "100"
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "OK"
+        }
+    },
+    {
+        "type": "click",
+        "package": "org.billthefarmer.siggen",
+        "target": {
+            "resource-id": "org.billthefarmer.siggen:id/bookmark"
+        }
+    }
+]

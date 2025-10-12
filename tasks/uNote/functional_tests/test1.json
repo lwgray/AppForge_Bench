@@ -1,0 +1,39 @@
+[
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/action_add"
+        }
+    },
+    {
+        "type": "input",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/TitreNoteEdition"
+        },
+        "message": "aa"
+    },
+    {
+        "type": "input",
+        "package": "app.varlorg.unote",
+        "target": {
+            "resource-id": "app.varlorg.unote:id/NoteEdition"
+        },
+        "message": "abc"
+    },
+    {
+        "type": "click",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "Save"
+        }
+    },
+    {
+        "type": "visible",
+        "package": "app.varlorg.unote",
+        "target": {
+            "text": "aa\nabc"
+        }
+    }
+]

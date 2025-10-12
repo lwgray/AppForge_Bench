@@ -1,0 +1,185 @@
+[
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/fab"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/lyrics_textbox"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/lyrics_textbox"
+        },
+        "message": "kk"
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/action_done"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/action_done"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/songName_edittext"
+        },
+        "message": "1"
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/albumName_edittext"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/albumName_edittext"
+        },
+        "message": "12"
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/artistName_edittext"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/artistName_edittext"
+        },
+        "message": "kk"
+    },
+    {
+        "type": "input",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/composer_edittext"
+        },
+        "message": "123"
+    },
+    {
+        "type": "input",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/creatorName_edittext"
+        },
+        "message": "1234"
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/save_button"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "SAVE"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.cg.lrceditor"
+    },
+    {
+        "type": "back",
+        "package": "com.cg.lrceditor"
+    },
+    {
+        "type": "back",
+        "package": "com.cg.lrceditor"
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/action_refresh"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/action_search"
+        }
+    },
+    {
+        "type": "input",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/search_src_text"
+        },
+        "message": "1"
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/edit_button"
+        }
+    },
+    {
+        "type": "back",
+        "package": "com.cg.lrceditor"
+    },
+    {
+        "type": "back",
+        "package": "com.cg.lrceditor"
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "content-desc": "Collapse"
+        }
+    },
+    {
+        "type": "longclick",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/lyricfile_parent_linearlayout"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "com.cg.lrceditor:id/action_delete_homepage"
+        }
+    },
+    {
+        "type": "click",
+        "package": "com.cg.lrceditor",
+        "target": {
+            "resource-id": "android:id/button1",
+            "text": "YES"
+        }
+    }
+]
