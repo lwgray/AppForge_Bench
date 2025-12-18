@@ -94,7 +94,17 @@ class AndroidBuilder:
             # 设置环境变量
             env = os.environ.copy()
             env['ANDROID_HOME'] = self.android_sdk_path
-            
+
+            # 确保gradlew有执行权限
+            gradlew_path = os.path.join(project_path, 'gradlew')
+            if os.path.exists(gradlew_path):
+                import stat
+                current_permissions = os.stat(gradlew_path).st_mode
+                os.chmod(
+                    gradlew_path,
+                    current_permissions | stat.S_IXUSR | stat.S_IXGRP | stat.S_IXOTH
+                )
+
             # 执行Gradle编译
             cmd = [self.gradle_wrapper, 'assembleDebug']
             process = subprocess.run(
